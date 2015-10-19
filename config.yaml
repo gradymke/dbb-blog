@@ -1,0 +1,8 @@
+MetaDataFormat: "yaml"
+baseurl: "http://dogsbuttbrew.com/"
+languageCode: "en-us"
+title: "The Hydrant"
+theme: "twentyfourteen"
+params:
+  description: "Web home for Brandon Grady."
+  author: "Brandon Grady"
