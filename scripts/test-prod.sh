@@ -6,4 +6,5 @@
 #
 # Changes should be saved to the bitbucket git repo.
 
-hugo --config="config_prod.yaml" server
+rm -Rf _publish
+hugo --destination="_publish" server

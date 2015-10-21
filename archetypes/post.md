@@ -1,8 +1,9 @@
 ---
-title: ""
-description: ""
+categories: []
 date: ""
+description: ""
+draft: true
 slug: ""
 tags: []
-categories: []
+title: ""
 ---

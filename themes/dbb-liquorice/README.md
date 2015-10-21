@@ -1,7 +1,9 @@
-# liquorice
+# dbb-liquorice
 
-Liquorice is a small black and white theme for [Hugo](https://github.com/spf13/hugo) (a fast and modern static website engine).
-
+DBB-Liquorice is a [Hugo](https://github.com/spf13/hugo) (a fast and modern
+static website engine) theme based on the excellent
+[Liquorice](https://github.com/eliasson/liquorice) and modified with the
+appropriate styles for my site.
 
 ### Dependencies
 

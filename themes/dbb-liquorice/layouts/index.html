@@ -5,6 +5,9 @@
         <div class="row">
             <div class="sixteen columns">
                 <div class="li-main-article-list">
+      <div class="li-right">
+        <img class="li-right logo" src="/img/woodcut_dogs_transparent.png" />
+      </div>
                     {{ range first 10 .Data.Pages }}
                         <div class="li-article">
                             {{ .Render "summary"}}
