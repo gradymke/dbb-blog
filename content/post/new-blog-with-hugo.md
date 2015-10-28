@@ -9,3 +9,18 @@ draft: true
 # Welcome to Blog 3.0
 
 This is, I think, officially my third rebranding of the family blog.
+
+# Why the Change?
+
+# Content
+
+* Family Stuff
+* Tech Stuff
+
+# The Tech Stack
+
+## Hugo
+
+## Deployment Scripts
+
+## Future Improvements
