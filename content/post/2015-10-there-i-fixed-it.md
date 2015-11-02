@@ -35,4 +35,4 @@ field was just too big. It was gone.
 No worries - I fixed it! I think they will be selling these this way in
 short order.
 
-{{< picture title="Fixed Remote" height="400px" src="https://lh3.googleusercontent.com/mZJsd1GDf_4Xe32ctL2C7PgdnuS-p1VQTNPRVze6_ospVdmxDAVWUPM7cl2zT8Of_Eqdqx5fDVRq_n0oIg2J-Oc5_Q3VVbzodU8oqmadgPLYOSpruVuFfjQeWbjPeFby133JtiQFSOqDELcDFIfLDtCGftB_zTSA5Pqkci_E2u1SUVm2z5E0coPvYbjlQgqawalpdroJKDhW4JPQz-r89MeFlBLEien-lrqMOA94mOX75z-t6G2xumo4-29AhFdIFPRbwPu8gpXu3n2G9c70bFUUj3IyunkaXAWwTGox-aZLYuGuodvo-OeMjbT6-iaZAKQzO41tfFnavvrc_MLtm0gfkLYCgowoyxNlavkXck9tuxX-I1I5LlGDsY0-tctuz6lInve675fXwHFRbVfGnLkVXXQbKptL7EVTND_lqQSiD4fma8NiQAypEkdWsK0penIp5QmScpa8N3kdM2Em54eoh4s03pEWMr6tAFfAcZwmAsqmqLsMW17zAFTkv2Xqd0y1-t1mlk27ssf6vaBYXFbNGfD9Q_oz2z0GqZkk9bvo=w1760-h1320-no" >}}
+{{< picture title="Fixed Remote" height="400px" src="https://lh3.googleusercontent.com/MfN0eXGDbWySjAtE_A_hsYpeejjutwFzTPm8PohWxVQ_DNoM9C0r=w1760-h1320-no" >}}
