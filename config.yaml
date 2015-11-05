@@ -5,6 +5,7 @@ title: "The Hydrant"
 theme: "dbb-liquorice"
 publishdir: "_site"
 builddrafts: false
+disqusShortname: "dogsbuttbrewcom"
 permalinks:
   post: /post/:year/:month/:title
 params:
