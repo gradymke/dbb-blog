@@ -1,6 +1,8 @@
 #!/bin/bash
 
-cd _publish
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+cd $DIR/../_publish
 tar -cvf site.tar .
 gzip site.tar
 
