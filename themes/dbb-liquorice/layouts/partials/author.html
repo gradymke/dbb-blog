@@ -1,5 +1,9 @@
 <div class="row li-author">
     <div class="sixteen columns">
+      {{ if isset .Params "author" }}
+        Written by <strong>{{ .Params.author }}</strong>
+      {{ else }}
         Written by <strong>{{ .Site.Params.author }}</strong>
+      {{ end }}
     </div>
 </div>
