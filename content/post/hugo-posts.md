@@ -15,3 +15,4 @@ Planned Posts on Hugo
 3. Build and Deployment
 4. Moving my Blogger posts to Hugo
 5. Hugo Short Codes - Pictures and Videos
+6. Integrating Google Analytics
