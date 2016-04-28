@@ -22,6 +22,26 @@ plans which is a shared Linux offering and up to 1GB of bandwidth a
 month (I think). Someday I could switch this, but for now it suffices
 and is cheap ($25 a year).
 
+## Publishing
+
+I have created a couple of scripts to help easily deploy the site to the
+host. It requires that you are on a Posix style authoring environemnt
+(I'm on Mac OSX) and have generated and installed your public key on the
+host.
+
+*build.sh* - This script builds the site and puts it in the \_publish
+directory. It accepts the **-d** option to deploy the site immediately
+to the destination host.
+
+*deploy.sh* - This script takes anything in the \_publish directory,
+TARs and Zips the contents, then secure copies (scp) it to the host. For
+this to work you must have exchanged keys with the host - the script
+will not pause to prompt for login on the remote host. Once the targz
+file is copied, the script will remotely extract the file, completing
+the site publishing. In the future this script may be configured to
+publish something to Facebook or Twitter so people can be alerted to the
+site haveing been updated.
+
 ## Template
 
 I created my own site template for Hugo using
