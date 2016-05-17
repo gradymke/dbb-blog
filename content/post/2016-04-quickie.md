@@ -73,4 +73,4 @@ the trip to go pick Mireille up, and the second our trip to Phoenix to visit
 Mireille's new white, Grady grandparents, as well as other warm-weather
 vacation activities.
 
-{{< picture title="Across from Union Station - the CO Flag!" height="400px" src="https://lh3.googleusercontent.com/Z0t5ydNhcXheNjog2zH_88djq3LjFvZrPRQr80aNld-SqQSfOqeACtO8UyLqi71dEZrSh4hIbNazqA=w2064-h1372-no" >}}
+{{< picture title="Mireille on her bike - Thanks for the correction Uncle Brett!" height="400px" src="https://lh3.googleusercontent.com/Z0t5ydNhcXheNjog2zH_88djq3LjFvZrPRQr80aNld-SqQSfOqeACtO8UyLqi71dEZrSh4hIbNazqA=w2064-h1372-no" >}}
