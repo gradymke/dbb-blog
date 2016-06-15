@@ -2,11 +2,14 @@
 categories: ["Family"]
 date: 2016-05-26T10:33:43-06:00
 description: ""
-draft: true
+draft: false
 slug: ""
 tags: ["loss"]
 title: My Father-In-Law
 ---
+This post got lost in the draft folder. So I'm posting it about three weeks late.
+Just for context...
+--
 Last weekend, my father-in-law, Bruce Tom Tibbett, passed away. It was a difficult
 thing to comprehend, somebody that we've been so close to for so long will no longer
 be with us. I'm sure I heard it somewhere how Freud describes the death of a
