@@ -145,12 +145,12 @@ as easy as Monday for some reason. Mireille was much more restless and
 needy today. Here's a video of her demanding "Fruit Snacks" from me at some
 point in the morning.
 
-{{< youtube -L9wDXivKHE >}}
+{{< youtube Ztx1_0Ja1KQ >}}
 
 For good measure, here is a video of Mireille on Monday night pretending that
 the hose head is a microphone...
 
-{{< youtube WSNLeiu7gSQ >}}
+{{< youtube O6vqY2A5m5M >}}
 
 Anyway, I kept my good spirits throughout most of it. Thursday was hard, but
 Jenny was going to come back that night and we could then commence battling
