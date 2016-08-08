@@ -13,3 +13,8 @@ I was amused by these so I had to post them. Mireille is learning English really
 She loves to eat! And she loves to try new food - but she doesn't always like the food that she's trying. When she happens to try something that she doesn't like she says "I like this uh-uh."
 
 The other one that cracked me up just this morning was after she burped. She is a fairly prolific gas producer and usually gives me a high five after she has passed one form of gas or another. Most of the time it is in the form of a fart. This morning she let out a huge burp, however. She looked kind of surprised at me, then smiled and said, "That not fart. From Mireille mouth!" I gave her the word so I fully expect her to start using burp in conversations must like fart has permeated many of her sentences already.
+
+Oh, one other one - for some reason she's been answering questions with "sure can" lately.
+
+Me: "Mireille, can you please turn that light off for me?"
+Mireille: "Sure can"
