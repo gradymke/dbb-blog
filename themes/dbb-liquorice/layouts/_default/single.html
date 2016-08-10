@@ -14,15 +14,21 @@
                         <span class="li-article-taxonomies">
                             {{ with $categories }}
                                 Posted in
-                                {{ range $categories }}
-                                    <a href="{{ $baseurl }}/categories/{{ . | urlize }}">{{ . }}</a>
+                                {{ range $index, $category := $categories }}
+                                    {{ if gt $index 0 }}
+                                    ,
+                                    {{ end }}
+                                    <a href="{{ $baseurl }}/categories/{{ $category | urlize }}">{{ $category }}</a>
                                 {{ end }}
                             {{ end }}
 
                             {{ with $tags }}
                                 with tags
-                                {{ range $tags }}
-                                    <a href="{{ $baseurl }}/tags/{{ . | urlize }}">{{ . }}</a>
+                                {{ range $index, $tag := $tags }}
+                                    {{ if gt $index 0 }}
+                                    ,
+                                    {{ end }}
+                                    <a href="{{ $baseurl }}/tags/{{ $tag | urlize }}">{{ $tag }}</a>
                                 {{ end }}
                             {{ end }}
                         </span>
