@@ -16,5 +16,51 @@
  */
 
 body {
-    font-family: 'Roboto', sans-serif;
+    /* font-family: 'Roboto', sans-serif; */
+    font-family: 'Montserrat', sans-serif;
+    min-width: 310px;
+}
+
+.bg-image {
+  background-image: url('../img/woodcut_dogs_transparent.png');
+  background-position: center center; /* Look this up */
+  background-size: cover;; /* Look this up */
+  background-color: #F07838;
+  border-bottom: black solid 3px;
+  height: 100px;
+  vertical-align: bottom;
+  padding-top: 50px;
+}
+
+.navbar-default a.navbar-brand {
+  color: #000000;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #000000;
+  text-shadow: 1px 1px #ffffff;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default a:hover.navbar-brand {
+  background-color: black;
+  color: white;
+  text-shadow: none;
+  font-weight: bold;
+}
+
+/* Style the collapsed menu */
+@media only screen and (max-width : 768px) {
+  .navbar-default .navbar-nav {
+    background-color: white;
+    border: 1px solid black;
+  }
+}
+
+.navbar-default .navbar-toggle {
+  border: none;
+}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+  background-color: black;
+  color: #F07838;
 }
