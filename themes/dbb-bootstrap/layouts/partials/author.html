@@ -1,0 +1,8 @@
+  <!-- DBB-BOOTSTRAP AUTHOR -->
+    <div>
+      {{ if isset .Params "author" }}
+        Written by <strong>{{ .Params.author }}</strong>
+      {{ else }}
+        Written by <strong>{{ .Site.Params.author }}</strong>
+      {{ end }}
+    </div>

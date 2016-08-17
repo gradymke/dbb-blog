@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<!-- DBB-BOOTSTRAP TERMS -->
+<html xmlns="//www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+
+  <body>
+    {{ partial "header.html" . }}
+    <h1>{{.Title}}</h1>
+    <ul>
+      {{ $data := .Data }}
+      {{ $baseurl := .Site.BaseURL }}
+      {{ range $key, $value := .Data.Terms }}
+        <li>
+          <h4><a href="{{ $baseurl }}/{{ $data.Plural }}/{{ $key | urlize }}">{{ $key }}</a></h4>
+        </li>
+      {{ end }}
+    </ul>
+
+    {{ partial "footer.html" . }}
+    {{ partial "tail.html" . }}
+  </body>
+</html>

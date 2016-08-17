@@ -2,7 +2,7 @@ MetaDataFormat: "yaml"
 baseurl: "http://dogsbuttbrew.com/"
 languageCode: "en-us"
 title: "The Hydrant"
-theme: "dbb-liquorice"
+theme: "dbb-bootstrap"
 publishdir: "_site"
 builddrafts: false
 disqusShortname: "dogsbuttbrewcom"
@@ -11,6 +11,7 @@ permalinks:
 params:
   description: "Web home for Brandon Grady."
   author: "Brandon Grady"
+  gaCode: "UA-70027511-1"
 
 menu:
   main:

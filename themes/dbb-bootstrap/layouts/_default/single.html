@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<!-- DBB-BOOTSTRAP SINGLE -->
+
+{{ $baseurl := .Site.BaseURL }}
+{{ $categories := .Params.categories }}
+{{ $tags := .Params.tags }}
+
+<html xmlns="//www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+
+  <body>
+    {{ partial "header.html" . }}
+
+    <article>
+      <header>
+        {{ with $categories }}
+          Posted in
+          {{ range $index, $category := $categories }}
+            {{ if gt $index 0 }}, {{ end }}
+            <a href="{{ $baseurl }}/categories/{{ $category | urlize }}">{{ $category }}</a>
+          {{ end }}
+        {{ end }}
+
+        {{ with $tags }}
+          with tags
+          {{ range $index, $tag := $tags }}
+            {{ if gt $index 0 }}, {{ end }}
+            <a href="{{ $baseurl }}/tags/{{ $tag | urlize }}">{{ $tag }}</a>
+          {{ end }}
+        {{ end }}
+
+        {{ if or $categories $tags }} - {{ end }}
+        <time>{{ .Date.Format "Monday, January 2, 2006" }}</time>
+      </header>
+      <section>
+        {{ .Content }}
+      </section>
+    </article>
+
+    {{ partial "author.html" .}}
+
+    {{with .Prev}}
+      Later article<br />
+      <a href="{{.Permalink}}"> {{.Title}}</a>
+    {{else}}
+      &nbsp;
+    {{end}}
+
+    {{with .Next}}
+      Older article<br />
+      <a href="{{.Permalink}}"> {{.Title}}</a>
+    {{else}}
+      &nbsp;
+    {{end}}
+    {{ template "_internal/disqus.html" . }}
+
+    {{ partial "footer.html" . }}
+    {{ partial "tail.html" . }}
+  </body>
+</html>

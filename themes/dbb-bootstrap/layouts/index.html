@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<!-- DBB-BOOTSTRAP INDEX -->
+<html xmlns="//www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+
+  <body>
+    {{ partial "header.html" . }}
+
+    <div>
+      {{ range first 10 .Data.Pages }}
+        {{ .Render "summary"}}
+      {{ end }}
+    </div>
+
+    {{ partial "footer.html" . }}
+    {{ partial "tail.html" . }}
+  </body>
+</html>

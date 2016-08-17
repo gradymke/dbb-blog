@@ -1,0 +1,8 @@
+author = "Brandon Grady"
+description = "DBB-Bootstrap is a small, Bootstrap based theme for Hugo."
+license = "MIT"
+licenselink = ""
+name = "dbb-bootstrap"
+source_repo = ""
+tags = ["", ""]
+min_version=0.14

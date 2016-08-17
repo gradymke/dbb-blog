@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<!-- DBB-BOOTSTRAP LIST -->
+
+<html xmlns="//www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+
+  <body>
+    {{ partial "header.html" . }}
+
+    <h1>{{.Title}}</h1>
+    <ul>
+      {{ range .Data.Pages }}
+        <li>
+          <time>{{ .Date.Format "January, 2, 2006" }} - Estimated Reading Time: {{ .ReadingTime }}min(s)</time>
+          <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+        </li>
+      {{ end }}
+    </ul>
+
+    {{ partial "footer.html" . }}
+    {{ partial "tail.html" . }}
+  </body>
+</html>
