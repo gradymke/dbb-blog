@@ -64,3 +64,13 @@ body {
   background-color: black;
   color: #F07838;
 }
+
+time {
+  font-style: italic;
+  color: #F07838;
+}
+
+.footer {
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
