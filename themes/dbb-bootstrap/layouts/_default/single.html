@@ -13,48 +13,69 @@
   <body>
     {{ partial "header.html" . }}
 
-    <article>
-      <header>
-        {{ with $categories }}
-          Posted in
-          {{ range $index, $category := $categories }}
-            {{ if gt $index 0 }}, {{ end }}
-            <a href="{{ $baseurl }}/categories/{{ $category | urlize }}">{{ $category }}</a>
+    <div class="container">
+      <article class="row">
+        <header class="panel-heading">
+          <h1>{{ .Title }}</h1>
+          {{ with $categories }}
+            Posted in
+            {{ range $index, $category := $categories }}
+              {{ if gt $index 0 }}, {{ end }}
+              <a href="{{ $baseurl }}/categories/{{ $category | urlize }}">{{ $category }}</a>
+            {{ end }}
           {{ end }}
-        {{ end }}
 
-        {{ with $tags }}
-          with tags
-          {{ range $index, $tag := $tags }}
-            {{ if gt $index 0 }}, {{ end }}
-            <a href="{{ $baseurl }}/tags/{{ $tag | urlize }}">{{ $tag }}</a>
+          {{ with $tags }}
+            with tags
+            {{ range $index, $tag := $tags }}
+              {{ if gt $index 0 }}, {{ end }}
+              <a href="{{ $baseurl }}/tags/{{ $tag | urlize }}">{{ $tag }}</a>
+            {{ end }}
           {{ end }}
-        {{ end }}
 
-        {{ if or $categories $tags }} - {{ end }}
-        <time>{{ .Date.Format "Monday, January 2, 2006" }}</time>
-      </header>
-      <section>
-        {{ .Content }}
-      </section>
-    </article>
+          {{ if or $categories $tags }} - {{ end }}
+          <time>{{ .Date.Format "Monday, January 2, 2006" }}</time>
+        </header>
+
+        <section class="panel-body">
+          {{ .Content }}
+        </section>
+      </article>
+    </div>
 
     {{ partial "author.html" .}}
 
-    {{with .Prev}}
-      Later article<br />
-      <a href="{{.Permalink}}"> {{.Title}}</a>
-    {{else}}
-      &nbsp;
-    {{end}}
+    <div class="container article-nav">
+      <div class="row">
+        <div class="col-sm-6">
+          {{with .Prev}}
+            <div class="pull-left">
+              Later article<br />
+              <a href="{{.Permalink}}"> {{.Title}}</a>
+            </div>
+          {{else}}
+            &nbsp;
+          {{end}}
+        </div>
 
-    {{with .Next}}
-      Older article<br />
-      <a href="{{.Permalink}}"> {{.Title}}</a>
-    {{else}}
-      &nbsp;
-    {{end}}
-    {{ template "_internal/disqus.html" . }}
+        <div class="col-sm-6">
+          {{with .Next}}
+            <div class="pull-right">
+              Older article<br />
+              <a href="{{.Permalink}}"> {{.Title}}</a>
+            </div>
+          {{else}}
+            &nbsp;
+          {{end}}
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        {{ template "_internal/disqus.html" . }}
+      </div>
+    </div>
 
     {{ partial "footer.html" . }}
     {{ partial "tail.html" . }}

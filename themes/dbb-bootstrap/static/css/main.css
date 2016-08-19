@@ -74,3 +74,10 @@ time {
   padding-top: 20px;
   padding-bottom: 10px;
 }
+
+.article-nav {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-top: 1px solid #c0c0c0;
+  border-bottom: 1px solid #c0c0c0;
+}
