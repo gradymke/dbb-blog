@@ -27,7 +27,11 @@ menu:
       Weight: 2
       Identifier: "categories"
       URL: "/categories/"
+    - Name: "Tags"
+      Weight: 3
+      Identifier: "tags"
+      URL: "/tags/"
     - Name: "Old Site"
-      Weight: 2
+      Weight: 4
       Identifier: "old-site"
       URL: "/old-site/"
