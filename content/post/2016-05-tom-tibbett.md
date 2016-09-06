@@ -42,7 +42,7 @@ he would walk the woods with his binoculars, read the bible each morning, or
 make maple syrup in the springs. He was a homebrewer at heart, though his brew
 was syrup!
 
-There were a two of topics in the Tibbett household that were common currency
+There were two topics in the Tibbett household that were common currency
 among all comers, bowling and home improvements. Entering the family, I didn't have
 a lot of home improvement knowledge, and I wasn't much of a bowler, but that didn't
 stop them from pulling me into the fray with the various construction projects
@@ -77,7 +77,7 @@ it, and textured it ourselves with a knock-down texture without renting a tool.
 
 He could certainly could tell a story, about literally anything. One time he told
 me a 15 minute story about a bee he encountered while on the roof at Bev and
-Bill's house! He had a particular gift of gab. in that he could strike up
+Bill's house! He had a particular gift of gab in that he could strike up
 a conversation with literally anybody about almost anything. Jenny and I had
 lived in Seattle for about a year when Tom and Shirley came to visit us. At
 the time we hadn't met many of our neighbors. After the first morning Tom was
@@ -90,7 +90,7 @@ keen curiosity. Tom was one of the most curious people I've ever met, particular
 for somebody his age. He was rabidly curious about how things worked, what particular
 buildings were for, who owned something, how something was developed - it didn't
 matter what, he was curious. And he would do whatever he could to find out
-about things. His main tool, as mentioned before was conversation.
+about things. His main tool, as mentioned before, was conversation.
 I remember bits and pieces of a story about a driving vacation with Shirley
 (the only type of vacation they took, they made a point of avoiding the
 interstate at all costs), where they ended up on some private drive that was
