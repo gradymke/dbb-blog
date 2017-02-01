@@ -8,9 +8,9 @@ tags: ["ethan", "quinton", "mireille"]
 title: 2016 - The Year in Review - First Trimester
 ---
 
-I can remember one year when we did the traditional "Holiday Letter." It was the year that we were in the process of trying to adopt Quinton, so we were "marketing ourselves" to our family and friends that year. Looking back, it was a fun letter to do, even if it was not necessary from the salesman side of house. I thought it would be fun to condense 2016 into a bit of a letter to our family (thank you both of my readers) and so that so that future versions of ourselves might enjoy reading it as well. So, here it goes!
+I can remember one year when we did the traditional "Holiday Letter." It was the year that we were in the process of trying to adopt Quinton, so we were "marketing ourselves" to our family and friends that year. Looking back, it was a fun letter to do, even if it was not necessary from the salesman side of house. I thought it would be fun to condense 2016 into a bit of a letter to our family (thank you both of my readers) and so that future versions of ourselves might enjoy reading it as well. So, here it goes!
 
-2016 was definitely one for the record books in Grady annals. No, we didn't relocate from one state to another - that was SO 2015. But we did hit many milestones that are worth noting.
+2016 was definitely one for the record books in Grady annals. No, we didn't relocate from one state to another - that was **SO** 2015. But we did hit many milestones that are worth noting.
 
 ## January
 
@@ -26,13 +26,13 @@ January was also a month where we were deep in the throes of home improvement, t
 
 {{< picture title="Kitchen Upgrades" height="400px" src="https://lh3.googleusercontent.com/3ye6ti8_oBarZyMaIlAKCRjSHMTdEuhkDWJ4KkQBRJlMmEI7O-ACHRUYsBjrLjld6yuFfYJz1QKQH5rEoGpB4sahh4qGbGCtn6oDCTcow11Wo7LVl2gIBPHTCfUM57GUBYB-YzM=w2206-h1466-no" >}}
 
-The boys and Jenny were able to take place in a Martin Luther Kind march in downtown Denver where they were able to hookup with the local Black Lives Matter crew for a little walk. I imagine they all have FBI files now.
+The boys and Jenny were able to take part in a Martin Luther King march in downtown Denver where they were able to hookup with the local Black Lives Matter crew for a little walk. I imagine they all have FBI files now.
 
 {{< picture title="First Activist March" height="400px" src="https://lh3.googleusercontent.com/O0y1J9vt0pHB0bhghz32HGcpC_y4OpKc9C5oZNzKNrNW9Ki-ZxnTbpCdKqLXx6hRv4rM-S6eD2TXzdajzD-fTycpuLJwLco5H7dRqj-OIX9vvhvWfcWrH0WyKic6FhArr_q1mAw=w1956-h1466-no" >}}
 
 {{< picture title="First Activist March" height="400px" src="https://lh3.googleusercontent.com/pfxbLEkpU3fq01gyAuIW2oWKP1iSEWnfGCTXlgxPNaAcGitg7zRA-mTDHUVgpTxgxIrrOsYanko5FV8QbrLO37QyY2Wv4kqFTi8Zf7Itf5UaUftEVQ8CDVP3UVDDozknItQbzqw=w1956-h1466-no" >}}
 
-On our way to the airport, it was fun seeing the city get behind their football team. I've only ever experienced Wisconsin during a Super Bowl run prior to this, so it was amusing and interesting to watch these Coloradans work themselves into a frenzy for their local team.
+On our way to the airport, it was fun seeing the city get behind their football team. I've only ever experienced Wisconsin during a Super Bowl run prior to this, so it was amusing and interesting to watch these Coloradans work themselves into a frenzy for their (I guess "our") local team.
 
 {{< picture title="Broncos March to the Super Bowl" height="400px" src="https://lh3.googleusercontent.com/-p6yN1TFtTGb4SF7g8uGBlF40MLPxtDNadiy1wjtU2r0nLXZWv_KqW99kkOof__pPZMBLgORB6fGaFQjXx1GnVhb4htOU-a51leP_5EXwFcZGNzb_L9hrMGqtqMqvo8jHQegs3Y=w1100-h1466-no" >}}
 
@@ -40,7 +40,7 @@ No winter is complete without a couple of ski days in the mountains!!!
 
 {{< picture title="Ski Day at Copper" height="400px" src="https://lh3.googleusercontent.com/OOsohYeAsPcdABliUqCS-aZ3xCXGRGYhilW8ifiwwzRs8dyU6im_WDDyIZsRJVfB60BGObZJq11Y9qXzk8NpPeHolLzjTF51ZMtA1__KC9RtXrpiHiSOCCR3_u4j3NgH23_uWNg=w1956-h1466-no" >}}
 
-The home improvements didn't stop in the kitchen. Here we are working on wiring up a new entry light, which was complciated by the fact that it was 14 feet in the air!!!
+The home improvements didn't stop in the kitchen. Here we are working on wiring up a new entry light, which was complicated by the fact that it was 14 feet in the air!!!
 
 {{< picture title="Wiring a new Light" height="400px" src="https://lh3.googleusercontent.com/c_e-nyAX4f5zi02u0IyB12Z9jqmT4MEaOv_pdOFosat1Mgvpmxd7HG0mNEDN-XiRs3HsR6uHlPinLBG8LjwNXF_c_viqUHDK-60tOccloLfqdWqZnUG9VUdaDZhJbhlj79U1_xs=w1100-h1466-no" >}}
 
@@ -143,7 +143,7 @@ March was pretty devoid of posts. After the February that we had, it was a time 
 
 ## April
 
-With April came Spring! Home from our spring break, it was back to acclimating to life in the United States for Mireille, and acclimating to life with Mireille for the rest of us. Soccer continued, home improvements resumed as we updated our home from its vintage roots. We also made the first of our three driving trips to the midwest, this time to celebrate Jenny's nephew's wedding along with her family. Also, a big event in Ethan's religious career, he is now able to tithe as he is a full on Catholic having been confirmed this month.
+With April came Spring! Home from our spring break, it was back to acclimating to life in the United States for Mireille, and acclimating to life with Mireille for the rest of us. Soccer continued, home improvements resumed as we updated our home from its vintage roots. We also made the first of our three driving trips to the midwest, this time to celebrate Jenny's nephew's wedding along with her family. Also, a big event in Ethan's religious career, he is now able to tithe as he is a full on Catholic having been confirmed this month. He celebrated like any good Catholic would - by skipping mass for the next several weeks.
 
 {{< picture title="More Home Improvements" height="400px" src="https://lh3.googleusercontent.com/yShmQaXlWZWPiHLZVAMLPYud9is2EN71aZxbwGo76p39OHT3wKxBVmhhIQPT5RV07jfd63zGTMNoL7kQ1bl1Y9W84gjIIHqviEi_5zSZaIzmfoWX8atYLcW0wNU7lusD631MW4Y=w1082-h1442-no" >}}
 
