@@ -1,8 +1,8 @@
 ---
 categories: ["Family", "DIY"]
-date: 2017-06-05T14:52:46-06:00
+date: 2017-06-12T14:52:46-06:00
 description: ""
-draft: true
+draft: false
 slug: ""
 tags: ["Ethan", "Quinton", "Mireille", "Bathroom"]
 title: "Summer is here!"
@@ -24,7 +24,7 @@ Mireille just graduated from PreK last Friday night with her friends at the dayc
 
 After the songs, each child was announced and came to the front to receive their diploma where they were asked what they wanted to be when they grew up. A lot of kids said they wanted to be a police (not a police officer, just a police). Several said they wanted to be teachers, or moms. One kid wanted to be a transformer, and another a ninja. I didn't really think Mireille understood the question, and I'm still not sure. When she responded she said she wanted to be a "race car."
 
-{{< picture title="Congrats, graduate!" height="400px" src="https://photos.google.com/share/AF1QipPx2OPUSx8TsD5AmvSnGWBTPRdD1Zz5Y10gLvNl0Cd0jA0_xhOW4pAVsLHvHEZWXQ/photo/AF1QipN0VuBbaKShplPOppPKj1NtJJ_7YBPU-4RHgGqF?key=dUZ3NFphOGZfa2JtXzl0OW9WazkzVUY0UXV6d0pB" >}}
+{{< picture title="Congrats, graduate!" height="400px" src="https://lh3.googleusercontent.com/9jM4r8xzp2qxWCES0dFroKobCIy_xWKHUGU2Is4JgeOWYQD5r5OcEpsVWxb7Gb3KzDTCqJZKhT_wy1XRvKcvDxfjWekyDYmuNIN4AH-valCkT5JD5SSnonoI5D-nXD356saQGBs=w1082-h1442-no" >}}
 
 ## Summer Camp
 
@@ -32,9 +32,9 @@ We also just finished our annual summer weekend camp, African/Caribbean Heritage
 
 On Saturday, we picked the kids up from their groups around 4:00 when our programming was completed. Upon picking up Mireille, we asked her how her day went and she said, "some boy pooped him's pants on the table." I love that phrase for several reasons. One, she still has that funny pronoun thing going on, though she has started using "she" on occasion. For another, she is really getting comfortable in the language to the point where you can hold conversations with her and have them make sense. And lastly, her sense of humor is so twisted that the only thing she wanted to mention about her day at school was about some kid crapping himself. That's got to be nurture, right?
 
-{{< picture title="Winding down after camp" height="400px" src="https://photos.google.com/share/AF1QipPx2OPUSx8TsD5AmvSnGWBTPRdD1Zz5Y10gLvNl0Cd0jA0_xhOW4pAVsLHvHEZWXQ/photo/AF1QipMJkodsyuWVDMGeFHE7ZCh8-uh-a0cCOzTIfM2Z?key=dUZ3NFphOGZfa2JtXzl0OW9WazkzVUY0UXV6d0pB" >}}
+{{< picture title="Winding down after camp" height="400px" src="https://lh3.googleusercontent.com/vwtmbAAQ015jcnseKcDHqDlZAlVn8VZSkALA4OnAMNKM4hdurKpzZYTxySWa65AXRQZRFIcmNPswH0RVrKkrvSfYS8gjev7BwxwJzJB10-8LCrTSu9XDmN98xf3D7ufQ5BtpJdQ=w1924-h1442-no" >}}
 
-{{< picture title="Burning off some energy" height="400px" src="https://photos.google.com/share/AF1QipPx2OPUSx8TsD5AmvSnGWBTPRdD1Zz5Y10gLvNl0Cd0jA0_xhOW4pAVsLHvHEZWXQ/photo/AF1QipPosJRQnYKzvupBnAcwXVf9yXpluBEjjbmA3msD?key=dUZ3NFphOGZfa2JtXzl0OW9WazkzVUY0UXV6d0pB" >}}
+{{< picture title="Burning off some energy" height="400px" src="https://lh3.googleusercontent.com/0uz1K9sOydhYtAb9pqA1FKp0D0xVJzIQyjWN8dILn3hP6La6ie-R5gIdZTT-cCz4BpFf1ZKbopjvZTfetVkSW7rPluIaphAxtjbRNm7b9EH_vOuhDGsRAYqn_EPWIaRJtsi9pQY=w1924-h1442-no" >}}
 
 ## Quick Hits
 
