@@ -1,5 +1,5 @@
 ---
-categories: ["Family", "DYI"]
+categories: ["Family", "DIY"]
 date: 2017-06-29T14:52:46-06:00
 description: ""
 draft: false
