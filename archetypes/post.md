@@ -1,9 +1,9 @@
 ---
 categories: []
-date: ""
 description: ""
 draft: true
 slug: ""
 tags: []
-title: ""
+date: {{ .Date }}
+title: "{{ replace .TranslationBaseName "-" " " | title }}"
 ---
