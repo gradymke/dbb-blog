@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Car on The Hydrant</title>
+    <link>http://dogsbuttbrew.com/tags/car/</link>
+    <description>Recent content in Car on The Hydrant</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Nov 2017 16:16:59 -0700</lastBuildDate>
+    
+	<atom:link href="http://dogsbuttbrew.com/tags/car/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Epic of the Flex</title>
+      <link>http://dogsbuttbrew.com/post/2017/11/the-epic-of-the-flex/</link>
+      <pubDate>Mon, 20 Nov 2017 16:16:59 -0700</pubDate>
+      
+      <guid>http://dogsbuttbrew.com/post/2017/11/the-epic-of-the-flex/</guid>
+      <description>If you are familiar with our family, you know that we don&amp;rsquo;t really place a high value on vehicles. Basically whatever can get us from point A to point B reliably and without a whole lot of money in maintenance will do. In our particular family, we now have three vehicles, two Chevy Malibu&amp;rsquo;s that have a combined age approaching 30 years, and a &amp;ldquo;new&amp;rdquo; Ford Flex that is only 3 years old, but is approaching 100,000 miles itself.</description>
+    </item>
+    
+  </channel>
+</rss>

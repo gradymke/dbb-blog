@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jenny on The Hydrant</title>
+    <link>http://dogsbuttbrew.com/tags/jenny/</link>
+    <description>Recent content in Jenny on The Hydrant</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 May 2017 11:04:40 -0600</lastBuildDate>
+    
+	<atom:link href="http://dogsbuttbrew.com/tags/jenny/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Happy Mother&#39;s Day</title>
+      <link>http://dogsbuttbrew.com/post/2017/05/happy-mothers-day/</link>
+      <pubDate>Mon, 15 May 2017 11:04:40 -0600</pubDate>
+      
+      <guid>http://dogsbuttbrew.com/post/2017/05/happy-mothers-day/</guid>
+      <description>Happy Mother&amp;rsquo;s Day to my kids&amp;rsquo; mom, and of course my wife, who luckily happen to be the same person! This year we celebrated by going to a brunch at one of our favorite places, Bull and Bush Brewpub! It&amp;rsquo;s a difficult thing to get all of our kids both out of the house and behaving in a public place, but for the most part they held it together through brunch.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -7,6 +7,7 @@
 # Changes should be saved to the bitbucket git repo.
 
 DEPLOY=NO
+GITHUB=NO
 
 while [[ $# > 0 ]]
 do
@@ -16,8 +17,11 @@ case $key in
     -d|--deploy)
       DEPLOY="YES"
     ;;
+    -g|--github)
+      GITHUB="YES"
+    ;;
     -h|--help)
-      echo "$0 [-h|--help] [-d|--deploy]"
+      echo "$0 [-h|--help] [-g|--github] [-d|--deploy]"
       exit
     ;;
     *)
@@ -27,9 +31,15 @@ esac
 shift # past argument or value
 done
 
+BUILD_DIR="_publish"
 echo "Building Site"
-rm -Rf _publish
-hugo --baseUrl="http://dogsbuttbrew.com" --destination="_publish"
+if [ $GITHUB == "YES" ]
+then
+  BUILD_DIR="docs"
+fi
+
+rm -Rf $BUILD_DIR
+hugo --baseUrl="http://dogsbuttbrew.com" --destination="$BUILD_DIR"
 
 if [ $DEPLOY == "YES" ]
 then
