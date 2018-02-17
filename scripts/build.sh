@@ -32,14 +32,16 @@ shift # past argument or value
 done
 
 BUILD_DIR="_publish"
+BASE_URL="http://dogsbuttbrew.com"
 echo "Building Site"
 if [ $GITHUB == "YES" ]
 then
   BUILD_DIR="docs"
+  BASE_URL="https://gradymke.github.io/dbb-blog"
 fi
 
 rm -Rf $BUILD_DIR
-hugo --baseUrl="http://dogsbuttbrew.com" --destination="$BUILD_DIR"
+hugo --baseUrl="$BASE_URL" --destination="$BUILD_DIR"
 
 if [ $DEPLOY == "YES" ]
 then

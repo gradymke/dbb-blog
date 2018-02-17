@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on The Hydrant</title>
-    <link>http://dogsbuttbrew.com/categories/</link>
+    <link>https://gradymke.github.io/dbb-blog/categories/</link>
     <description>Recent content in Categories on The Hydrant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://dogsbuttbrew.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gradymke.github.io/dbb-blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Diy</title>
-      <link>http://dogsbuttbrew.com/categories/diy/</link>
+      <link>https://gradymke.github.io/dbb-blog/categories/diy/</link>
       <pubDate>Thu, 12 Oct 2017 08:42:44 -0600</pubDate>
       
-      <guid>http://dogsbuttbrew.com/categories/diy/</guid>
+      <guid>https://gradymke.github.io/dbb-blog/categories/diy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Family</title>
-      <link>http://dogsbuttbrew.com/categories/family/</link>
+      <link>https://gradymke.github.io/dbb-blog/categories/family/</link>
       <pubDate>Tue, 06 Feb 2018 10:50:09 -0700</pubDate>
       
-      <guid>http://dogsbuttbrew.com/categories/family/</guid>
+      <guid>https://gradymke.github.io/dbb-blog/categories/family/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Misc</title>
-      <link>http://dogsbuttbrew.com/categories/misc/</link>
+      <link>https://gradymke.github.io/dbb-blog/categories/misc/</link>
       <pubDate>Mon, 20 Nov 2017 16:16:59 -0700</pubDate>
       
-      <guid>http://dogsbuttbrew.com/categories/misc/</guid>
+      <guid>https://gradymke.github.io/dbb-blog/categories/misc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Technology</title>
-      <link>http://dogsbuttbrew.com/categories/technology/</link>
+      <link>https://gradymke.github.io/dbb-blog/categories/technology/</link>
       <pubDate>Thu, 18 Aug 2016 19:04:39 -0600</pubDate>
       
-      <guid>http://dogsbuttbrew.com/categories/technology/</guid>
+      <guid>https://gradymke.github.io/dbb-blog/categories/technology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Weekends</title>
-      <link>http://dogsbuttbrew.com/categories/weekends/</link>
+      <link>https://gradymke.github.io/dbb-blog/categories/weekends/</link>
       <pubDate>Sun, 22 Nov 2015 20:49:12 -0700</pubDate>
       
-      <guid>http://dogsbuttbrew.com/categories/weekends/</guid>
+      <guid>https://gradymke.github.io/dbb-blog/categories/weekends/</guid>
       <description></description>
     </item>
     
