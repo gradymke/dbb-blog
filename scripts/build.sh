@@ -37,7 +37,7 @@ echo "Building Site"
 if [ $GITHUB == "YES" ]
 then
   BUILD_DIR="docs"
-  BASE_URL="https://gradymke.github.io/dbb-blog"
+  # BASE_URL="https://gradymke.github.io/dbb-blog"
 fi
 
 rm -Rf $BUILD_DIR

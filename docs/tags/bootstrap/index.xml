@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bootstrap on The Hydrant</title>
-    <link>https://gradymke.github.io/dbb-blog/tags/bootstrap/</link>
+    <link>http://dogsbuttbrew.com/tags/bootstrap/</link>
     <description>Recent content in Bootstrap on The Hydrant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Aug 2016 19:04:39 -0600</lastBuildDate>
     
-	<atom:link href="https://gradymke.github.io/dbb-blog/tags/bootstrap/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dogsbuttbrew.com/tags/bootstrap/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>New Theme!!!</title>
-      <link>https://gradymke.github.io/dbb-blog/post/2016/08/new-theme/</link>
+      <link>http://dogsbuttbrew.com/post/2016/08/new-theme/</link>
       <pubDate>Thu, 18 Aug 2016 19:04:39 -0600</pubDate>
       
-      <guid>https://gradymke.github.io/dbb-blog/post/2016/08/new-theme/</guid>
+      <guid>http://dogsbuttbrew.com/post/2016/08/new-theme/</guid>
       <description>You may have noticed something new when you browsed here today. No, I didn&amp;rsquo;t adopt another kid&amp;hellip; I didn&amp;rsquo;t have to shovel 12 inches of snow&amp;hellip; It&amp;rsquo;s a new theme for the website! I&amp;rsquo;m sure you are as excited as I am about the change&amp;hellip; Doesn&amp;rsquo;t matter - this is my blog, and I can put whatever I want here.
 This theme is awhile in the making. I&amp;rsquo;ve been doing web development for probably 17 years (well, I&amp;rsquo;ve been pretending to do it for that long - much of that time has been dedicated to managing web developers, but let&amp;rsquo;s not split hairs), and in the time I&amp;rsquo;ve been doing it, it has changed mightily.</description>
     </item>
