@@ -40,7 +40,7 @@ then
   # BASE_URL="https://gradymke.github.io/dbb-blog"
 fi
 
-rm -Rf $BUILD_DIR
+# rm -Rf $BUILD_DIR
 hugo --baseUrl="$BASE_URL" --destination="$BUILD_DIR"
 
 if [ $DEPLOY == "YES" ]
