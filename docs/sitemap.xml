@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://dogsbuttbrew.com/post/2018/03/new-website/</loc>
+    <lastmod>2018-03-04T12:26:58-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://dogsbuttbrew.com/post/2018/02/the-next-renovation/</loc>
     <lastmod>2018-02-27T09:36:02-07:00</lastmod>
   </url>
@@ -340,6 +345,12 @@
   </url>
   
   <url>
+    <loc>http://dogsbuttbrew.com/tags/aws/</loc>
+    <lastmod>2018-03-04T12:26:58-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dogsbuttbrew.com/tags/bathroom/</loc>
     <lastmod>2018-02-27T09:36:02-07:00</lastmod>
     <priority>0</priority>
@@ -347,7 +358,7 @@
   
   <url>
     <loc>http://dogsbuttbrew.com/tags/blog/</loc>
-    <lastmod>2016-08-18T19:04:39-06:00</lastmod>
+    <lastmod>2018-03-04T12:26:58-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -447,6 +458,12 @@
   </url>
   
   <url>
+    <loc>http://dogsbuttbrew.com/tags/github/</loc>
+    <lastmod>2018-03-04T12:26:58-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dogsbuttbrew.com/tags/glen/</loc>
     <lastmod>2015-11-23T09:37:32-07:00</lastmod>
     <priority>0</priority>
@@ -496,7 +513,7 @@
   
   <url>
     <loc>http://dogsbuttbrew.com/tags/hugo/</loc>
-    <lastmod>2015-11-05T10:12:59-07:00</lastmod>
+    <lastmod>2018-03-04T12:26:58-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -586,7 +603,7 @@
   
   <url>
     <loc>http://dogsbuttbrew.com/post/</loc>
-    <lastmod>2018-02-27T09:36:02-07:00</lastmod>
+    <lastmod>2018-03-04T12:26:58-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -611,6 +628,12 @@
   <url>
     <loc>http://dogsbuttbrew.com/tags/restaurants/</loc>
     <lastmod>2015-11-22T20:49:12-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/route-53/</loc>
+    <lastmod>2018-03-04T12:26:58-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -640,13 +663,13 @@
   
   <url>
     <loc>http://dogsbuttbrew.com/categories/technology/</loc>
-    <lastmod>2016-08-18T19:04:39-06:00</lastmod>
+    <lastmod>2018-03-04T12:26:58-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://dogsbuttbrew.com/</loc>
-    <lastmod>2018-02-27T09:36:02-07:00</lastmod>
+    <lastmod>2018-03-04T12:26:58-07:00</lastmod>
     <priority>0</priority>
   </url>
   

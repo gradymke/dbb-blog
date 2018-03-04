@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo on The Hydrant</title>
-    <link>http://dogsbuttbrew.com/tags/hugo/</link>
-    <description>Recent content in Hugo on The Hydrant</description>
+    <title>Github on The Hydrant</title>
+    <link>http://dogsbuttbrew.com/tags/github/</link>
+    <description>Recent content in Github on The Hydrant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Mar 2018 12:26:58 -0700</lastBuildDate>
     
-	<atom:link href="http://dogsbuttbrew.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dogsbuttbrew.com/tags/github/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,16 +18,6 @@
       
       <guid>http://dogsbuttbrew.com/post/2018/03/new-website/</guid>
       <description>I know, it doesn&amp;rsquo;t look any different. That&amp;rsquo;s sort of the beauty of this story. I&amp;rsquo;m going to warn you, if you normally come here for my amusing anecdotes about my kids, or perhaps to be regaled about my home improvement exploits, this story will probably seem somewhat dull. However, I owe this entry to the greater technological community, as there might be somebody, somewhere, that thinks even a little bit like me and are trying to do something similar to what I&amp;rsquo;m trying to do.</description>
-    </item>
-    
-    <item>
-      <title>Now With Comments</title>
-      <link>http://dogsbuttbrew.com/post/2015/11/now-with-comments/</link>
-      <pubDate>Thu, 05 Nov 2015 10:12:59 -0700</pubDate>
-      
-      <guid>http://dogsbuttbrew.com/post/2015/11/now-with-comments/</guid>
-      <description>If you&amp;rsquo;re here, great! I&amp;rsquo;m not sure how you found it because I haven&amp;rsquo;t yet linked the old blog to this one, nor have I done any advertisement or anything (I probably won&amp;rsquo;t ever advertise).
-There will be a larger series on how the new blog was constructed and some of the technical ins and outs, but I wanted to quickly mention that the blog is soft-launched, and today I added the ability to comment using Discus, a SaaS based commenting and discuussion platform.</description>
     </item>
     
   </channel>
