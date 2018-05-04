@@ -6,10 +6,19 @@
     <description>Recent content in Blog on The Hydrant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Mar 2018 12:26:58 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 04 May 2018 14:45:58 -0600</lastBuildDate>
     
 	<atom:link href="http://dogsbuttbrew.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Old Blog Reclaimed!</title>
+      <link>http://dogsbuttbrew.com/post/2018/05/old-blog-reclaimed/</link>
+      <pubDate>Fri, 04 May 2018 14:45:58 -0600</pubDate>
+      
+      <guid>http://dogsbuttbrew.com/post/2018/05/old-blog-reclaimed/</guid>
+      <description>I have a small project going on right now. I&amp;rsquo;ve downloaded my old blog from Blogspot and have started persisting it here, in a more controlled fashion - everything all in one place! Since I had over 180 posts on that blog, it will take some time to reclaim all of the old posts and reformat them to properly work here, but the work has begun. It is tedious work, involving some level of digital archaeology, but I think it is worthwhile and will make this blog much more portable in the future.</description>
+    </item>
     
     <item>
       <title>New Website</title>

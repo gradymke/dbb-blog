@@ -50,6 +50,12 @@ point. It is a simple theme with a couple of decent shortcodes. I will
 likely update this at some point in the future to use PureCSS or
 something similar, but this one was a good starting point.
 
+The main shortcode provided is below to size an image to a smaller size to fit
+on the page. Newer versions of Hugo may take care of this, so I will evaluate
+that in the future.
+
+{{< picture title="" height="400px" src="" >}}
+
 ## Color Palette
 
 I'm not yet using it, but I've generated a color palette using

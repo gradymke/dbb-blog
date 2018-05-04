@@ -1,5 +1,6 @@
 public
 _publish
 _site
+.DS_Store
 
 /.gtm/

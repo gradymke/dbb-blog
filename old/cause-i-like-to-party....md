@@ -1,0 +1,11 @@
++++
+title = "'Cause I like to party..."
+date = 2013-01-13T20:49:00Z
+updated = 2013-01-13T20:49:18Z
+blogimport = true 
+[author]
+	name = "Brandon Grady"
+	uri = "https://plus.google.com/115749026413078959590"
++++
+
+I have a running joke with the boys. Any time they ask me a question that begs me to define reasons for behavior, I like to answer, "'cause I like to party." It's a brilliant quote from Talladega Nights - if you're not familiar, check it out here:<br /><br /><div class="separator" style="clear: both; text-align: center;"><object width="320" height="266" class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://1.gvt0.com/vi/SS_OVZtVa4E/0.jpg"><param name="movie" value="http://www.youtube.com/v/SS_OVZtVa4E&fs=1&source=uds" /><param name="bgcolor" value="#FFFFFF" /><param name="allowFullScreen" value="true" /><embed width="320" height="266"  src="http://www.youtube.com/v/SS_OVZtVa4E&fs=1&source=uds" type="application/x-shockwave-flash" allowfullscreen="true"></embed></object></div><br />Anyway, like most things I'd prefer they didn't, both boys have started using it in daily conversations, with improving timing.<br /><br />Last week, Quin was in the bathroom at school when a bunch of 8th grade boys walked in. In their conversation with Quin, one of them asked him why he was so cute. He calmly and immediately replied, "'cause I like to party!" Like I said, the timing is improving...<br /><br />Yesterday was my 40th birthday. While I don't really believe in New Year's resolutions, I do sort of believe in birthday resolutions. If you were to ask me why, I would of course respond, "'cause I like to party." Anyway, I have some more things to post, and I will, and more often, I hope.<br /><br />Very quickly, I wanted to shout out to my brothers who convened on chilly Oconomowoc from parts throughout the midwest to celebrate my passage into the final year of my 4th decade. It was nice to see all of the friends and neighbors that were able to celebrate with me on the celebration of the day of my birth, but it was especially special to have my siblings there with me. Thanks boys, and your partners in crime as well!
