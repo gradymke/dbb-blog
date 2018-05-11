@@ -12,7 +12,7 @@ It's been awhile since I've updated this site on my favorite 7-year old.  Ethan'
 
 A couple of weeks ago, Ethan, Jenny, and I went to Lutsen, MN for a small ski vacation.  We left Quin with his Grandpa and Grandma Grady for the few days we were up there.  It was a great vacation, but the nicest part was to see how well Ethan had taken to skiing.  This is his fourth year on the slopes, but it's only been a couple of times each year.  Nevertheless, he has proven to be a very adept student of the sport, and is now skiing much faster than I'm comfortable seeing.  By the end of the vacation, and one day of ski school, he was handling all the hills that Jenny was comfortable with.  My only concern is that he is a bit cocky.  By the end of the second day skiing, he was begging me to let him go down the black diamond hills, the ones rated for "experts only."  I talked him out of it, but I'm sure it won't last too many more years.  Where has my baby gone!!?
 
-{{< picture title="" height="400px" src="http://4.bp.blogspot.com/_5WpZdqukbMw/SdAt1Gg5A4I/AAAAAAAAAf4/o5Sp_64t_WQ/s320/IMG_5567.jpg" >}}
+{{< picture title="" height="400px" src="http://4.bp.blogspot.com/_5WpZdqukbMw/SdAt1Gg5A4I/AAAAAAAAAf4/o5Sp_64t_WQ/s1600/IMG_5567.jpg" >}}
 
 ## Segway
 

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dancing on The Hydrant</title>
+    <link>http://dogsbuttbrew.com/tags/dancing/</link>
+    <description>Recent content in Dancing on The Hydrant</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Dec 2010 10:58:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://dogsbuttbrew.com/tags/dancing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dancing Quin</title>
+      <link>http://dogsbuttbrew.com/reclaimed/dancing-quin/</link>
+      <pubDate>Wed, 29 Dec 2010 10:58:00 +0000</pubDate>
+      
+      <guid>http://dogsbuttbrew.com/reclaimed/dancing-quin/</guid>
+      <description>This video is hilarious, I think. Obviously there must be some degree of nature going on here as nobody of the non-adopted persuasion in our family can dance like this&amp;hellip;
+  </description>
+    </item>
+    
+  </channel>
+</rss>
