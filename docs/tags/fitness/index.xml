@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fitness on The Hydrant</title>
+    <link>http://dogsbuttbrew.com/tags/fitness/</link>
+    <description>Recent content in Fitness on The Hydrant</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Aug 2012 20:41:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://dogsbuttbrew.com/tags/fitness/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Little Triathetes</title>
+      <link>http://dogsbuttbrew.com/reclaimed/my-little-triathetes/</link>
+      <pubDate>Sun, 05 Aug 2012 20:41:00 +0000</pubDate>
+      
+      <guid>http://dogsbuttbrew.com/reclaimed/my-little-triathetes/</guid>
+      <description>Last weekend was the annual &amp;ldquo;Tri-ing for Children&amp;rsquo;s Triathlon,&amp;rdquo; a weekend long set of triathlons to benefit Children&amp;rsquo;s Hospital here in town. Jenny and I were both signed up to do the sprint triathlon, a 1&amp;frasl;4 mile swim, 15 mile bike, then 3.1 mile run. We&amp;rsquo;ve done it a few years in a row now, so that&amp;rsquo;s not what I&amp;rsquo;m writing about - this year we decided to let our kids participate in the kid&amp;rsquo;s event on the Saturday prior to the adult races.</description>
+    </item>
+    
+  </channel>
+</rss>
