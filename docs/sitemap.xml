@@ -383,6 +383,11 @@
   </url>
   
   <url>
+    <loc>http://dogsbuttbrew.com/reclaimed/late-february-update/</loc>
+    <lastmod>2013-02-26T20:46:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://dogsbuttbrew.com/reclaimed/four-eyes/</loc>
     <lastmod>2013-02-08T08:56:00+00:00</lastmod>
   </url>
@@ -395,6 +400,11 @@
   <url>
     <loc>http://dogsbuttbrew.com/reclaimed/halloween-update/</loc>
     <lastmod>2012-11-07T21:33:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/reclaimed/little-quinny/</loc>
+    <lastmod>2012-06-25T21:53:00+00:00</lastmod>
   </url>
   
   <url>
@@ -450,6 +460,11 @@
   <url>
     <loc>http://dogsbuttbrew.com/reclaimed/baby-driver/</loc>
     <lastmod>2010-05-30T23:25:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/reclaimed/lots-of-new-words-and-the-amish/</loc>
+    <lastmod>2010-05-01T10:12:00+00:00</lastmod>
   </url>
   
   <url>
@@ -548,6 +563,11 @@
   </url>
   
   <url>
+    <loc>http://dogsbuttbrew.com/reclaimed/loose-teeth-and-doctors-visits/</loc>
+    <lastmod>2008-03-03T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://dogsbuttbrew.com/reclaimed/bringing-quin-home/</loc>
     <lastmod>2008-02-19T18:44:00+00:00</lastmod>
   </url>
@@ -555,6 +575,11 @@
   <url>
     <loc>http://dogsbuttbrew.com/reclaimed/first-tooth.../</loc>
     <lastmod>2006-10-27T22:11:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/reclaimed/long-time.../</loc>
+    <lastmod>2006-09-18T22:08:00+00:00</lastmod>
   </url>
   
   <url>
@@ -585,6 +610,11 @@
   <url>
     <loc>http://dogsbuttbrew.com/reclaimed/funny-sayings/</loc>
     <lastmod>2006-02-19T20:44:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/reclaimed/little-snot.../</loc>
+    <lastmod>2006-01-05T12:24:00+00:00</lastmod>
   </url>
   
   <url>
@@ -710,6 +740,12 @@
   <url>
     <loc>http://dogsbuttbrew.com/categories/diy/</loc>
     <lastmod>2018-02-27T09:36:02-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/drawing/</loc>
+    <lastmod>2008-03-03T22:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -882,6 +918,12 @@
   </url>
   
   <url>
+    <loc>http://dogsbuttbrew.com/tags/lost-teeth/</loc>
+    <lastmod>2008-03-03T22:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dogsbuttbrew.com/tags/memoirs/</loc>
     <lastmod>2015-11-23T09:37:32-07:00</lastmod>
     <priority>0</priority>
@@ -1016,6 +1058,12 @@
   <url>
     <loc>http://dogsbuttbrew.com/</loc>
     <lastmod>2018-05-04T14:45:58-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/tmi/</loc>
+    <lastmod>2012-06-25T21:53:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

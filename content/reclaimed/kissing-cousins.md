@@ -17,7 +17,7 @@ Jenny and I participated in a triathlon two weekends ago.  My parents came down 
 
 The funniest part of this story is the contrast between the boys taking a trip to the lake alone and taking a trip with mom in tow.  When we went to the lake last night, we all put our swimming suits on at home, went to the lake, swam, then remembered that we needed a towel - luckily there was one in the van.  We all used the same towel, dried off, went home, and went to bed.  Tonight we did the same trip, this time with mom.  When Ethan and I got home from work and camp, there was a picnic supper packed, extra clothes, four towels, garbage bags for our refuse, I could go on.  Let's just say there are differences between trips that dad plans and those that mom does...
 
-{{< picture title="" height="400px" src="http://3.bp.blogspot.com/_5WpZdqukbMw/Snoy-JGaUEI/AAAAAAAAAlY/RcSzNJ1O0xc/s1600-h/IMG_2015.JPG" >}}
+{{< picture title="" height="400px" src="http://3.bp.blogspot.com/_5WpZdqukbMw/Snoy-JGaUEI/AAAAAAAAAlY/RcSzNJ1O0xc/s1600/IMG_2015.JPG" >}}
 
 ## Twinkle Twinkle Little Star
 

@@ -27,4 +27,4 @@ He is starting to say more and more words.  He says "bye bye" regularly now and 
 
 I'm sure there's more, but I can't think of it right now.  Hopefully Jenny will read this and remind me of what I've missed.
 
-{{< picture title="" height="400px" src="http://2.bp.blogspot.com/_5WpZdqukbMw/SlqdI1cKnLI/AAAAAAAAAk4/cYZyceOzwPo/s1600-h/DSC_0021.jpg" >}}
+{{< picture title="" height="400px" src="http://2.bp.blogspot.com/_5WpZdqukbMw/SlqdI1cKnLI/AAAAAAAAAk4/cYZyceOzwPo/s1600/DSC_0021.jpg" >}}
