@@ -19,4 +19,4 @@ Her life ended peacefully, though a tad early.  One of the main issues we're enc
 
 She loved to sit on the back of the chair in the sun.  She loved to come and welcome you whenever you came over.  She was a good dog and we will all miss her.
 
-{{< picture title="" height="400px" src="http://3.bp.blogspot.com/_5WpZdqukbMw/SictHMAt6JI/AAAAAAAAAgg/x--_IzzwY2k/s1600-h/DSC_0032.jpg" >}}
+{{< picture title="" height="400px" src="http://3.bp.blogspot.com/_5WpZdqukbMw/SictHMAt6JI/AAAAAAAAAgg/x--_IzzwY2k/s1600/DSC_0032.jpg" >}}
