@@ -48,7 +48,7 @@
     <div class="container article-nav">
       <div class="row">
         <div class="col-sm-6">
-          {{with .Prev}}
+          {{with .NextPage}}
             <div class="pull-left">
               Later article<br />
               <a href="{{.Permalink}}"> {{.Title}}</a>
@@ -59,7 +59,7 @@
         </div>
 
         <div class="col-sm-6">
-          {{with .Next}}
+          {{with .PrevPage}}
             <div class="pull-right">
               Older article<br />
               <a href="{{.Permalink}}"> {{.Title}}</a>

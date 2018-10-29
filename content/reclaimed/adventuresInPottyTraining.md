@@ -1,10 +1,10 @@
---
+---
 title: "Adventures in Potty Training"
 date: 2011-03-20T21:06:00Z
 updated: 2011-03-20T21:24:32Z
 tags: ["Quin"]
 categories: ["Family","OldBlog"]
---
+---
 
 I hate potty training. Jenny does, too, for the record. We're no good at it. We rarely stay at home long enough to actually get our children into a rhythm of going every so often, we constantly forget to ask, and, well, it's just pretty convenient to not have to worry about one of the four bladders in our posse at any given time of day. That said, we have (finally) started attempting some degree of potty training with Quin... It's not going so well.
 

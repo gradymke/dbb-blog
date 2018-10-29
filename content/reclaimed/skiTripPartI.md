@@ -1,9 +1,9 @@
---
+---
 title: "Ski Trip - Part I"
 date: 2011-02-21T10:56:00Z
 categories: ["Family","OldBlog"]
 tags: ["Vacation"]
---
+---
 
 As I sit here in our rented condo, Ethan and Jenny are sitting on the couch studying social studies (Jenny struggles, so they need to study), Quin is watching Monsters, Inc. on the iPad, it is brisk and snowing outside while the gas fire burns warmly in the fireplace. Our first ski vacation in 7 years is in full swing!
 
