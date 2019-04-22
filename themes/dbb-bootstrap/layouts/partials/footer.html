@@ -3,7 +3,9 @@
   <div class="row">
     <div class="footer text-center">
       {{ with .Site.Params.copyright }}{{.}}{{ else }}&copy; {{ now.Format "2006"}}. All rights reserved. {{end}} -
-      <a href="{{ .RSSLink }}" type="application/rss+xml" target="_blank">
+      {{ with .OutputFormats.Get "RSS" }}
+        <a href="{{ .RelPermalink }}" type="application/rss+xml" target="_blank">
+      {{ end }}
         <span class="fa fa-rss-square" aria-hidden="true"></span>
         View RSS
       </a>

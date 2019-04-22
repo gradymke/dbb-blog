@@ -8,8 +8,56 @@
   </url>
   
   <url>
+    <loc>http://dogsbuttbrew.com/categories/</loc>
+    <lastmod>2019-02-28T09:58:38-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/categories/family/</loc>
+    <lastmod>2019-02-28T09:58:38-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/post/</loc>
+    <lastmod>2019-02-28T09:58:38-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/quin/</loc>
+    <lastmod>2019-02-28T09:58:38-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/</loc>
+    <lastmod>2019-02-28T09:58:38-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/</loc>
+    <lastmod>2019-02-28T09:58:38-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dogsbuttbrew.com/post/2019/02/catching-up-to-2019/</loc>
     <lastmod>2019-02-04T17:00:42-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/mireille/</loc>
+    <lastmod>2019-02-04T17:00:42-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/quinton/</loc>
+    <lastmod>2019-02-04T17:00:42-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -18,8 +66,26 @@
   </url>
   
   <url>
+    <loc>http://dogsbuttbrew.com/tags/pets/</loc>
+    <lastmod>2018-12-03T14:48:10-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dogsbuttbrew.com/post/2018/11/moab/</loc>
     <lastmod>2018-11-25T19:58:19-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/ethan/</loc>
+    <lastmod>2018-11-25T19:58:19-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/vacation/</loc>
+    <lastmod>2018-11-25T19:58:19-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -28,8 +94,20 @@
   </url>
   
   <url>
+    <loc>http://dogsbuttbrew.com/tags/funny/</loc>
+    <lastmod>2018-11-10T19:58:19-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dogsbuttbrew.com/post/2018/11/mireille-the-observer/</loc>
     <lastmod>2018-11-01T10:10:26-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/kids/</loc>
+    <lastmod>2018-11-01T10:10:26-06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -78,13 +156,31 @@
   </url>
   
   <url>
+    <loc>http://dogsbuttbrew.com/categories/misc/</loc>
+    <lastmod>2018-05-04T14:45:58-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dogsbuttbrew.com/post/2018/05/old-blog-reclaimed/</loc>
     <lastmod>2018-05-04T14:45:58-06:00</lastmod>
   </url>
   
   <url>
+    <loc>http://dogsbuttbrew.com/tags/blog/</loc>
+    <lastmod>2018-05-04T14:45:58-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dogsbuttbrew.com/post/2018/03/spring-break-2018-day-three/</loc>
     <lastmod>2018-03-31T20:15:04-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/travel/</loc>
+    <lastmod>2018-03-31T20:15:04-06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -113,8 +209,56 @@
   </url>
   
   <url>
+    <loc>http://dogsbuttbrew.com/categories/technology/</loc>
+    <lastmod>2018-03-04T12:26:58-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/aws/</loc>
+    <lastmod>2018-03-04T12:26:58-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/github/</loc>
+    <lastmod>2018-03-04T12:26:58-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/hugo/</loc>
+    <lastmod>2018-03-04T12:26:58-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/route-53/</loc>
+    <lastmod>2018-03-04T12:26:58-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/categories/diy/</loc>
+    <lastmod>2018-02-27T09:36:02-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dogsbuttbrew.com/post/2018/02/the-next-renovation/</loc>
     <lastmod>2018-02-27T09:36:02-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/bathroom/</loc>
+    <lastmod>2018-02-27T09:36:02-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/electrical/</loc>
+    <lastmod>2018-02-27T09:36:02-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -123,13 +267,31 @@
   </url>
   
   <url>
+    <loc>http://dogsbuttbrew.com/tags/holiday/</loc>
+    <lastmod>2018-02-06T10:50:09-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dogsbuttbrew.com/post/2017/12/elf-on-the-shelf/</loc>
     <lastmod>2017-12-06T18:45:01-07:00</lastmod>
   </url>
   
   <url>
+    <loc>http://dogsbuttbrew.com/tags/holidays/</loc>
+    <lastmod>2017-12-06T18:45:01-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dogsbuttbrew.com/post/2017/12/thanksgiving-2017/</loc>
     <lastmod>2017-12-04T12:16:24-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/car/</loc>
+    <lastmod>2017-11-20T16:16:59-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -143,6 +305,12 @@
   </url>
   
   <url>
+    <loc>http://dogsbuttbrew.com/tags/lawn/</loc>
+    <lastmod>2017-10-12T08:42:44-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dogsbuttbrew.com/post/2017/09/a-perfect-parents-weekend.../</loc>
     <lastmod>2017-09-26T09:38:40-04:00</lastmod>
   </url>
@@ -150,6 +318,18 @@
   <url>
     <loc>http://dogsbuttbrew.com/post/2017/09/mireille-funnies/</loc>
     <lastmod>2017-09-05T11:52:46-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/amusing/</loc>
+    <lastmod>2017-09-05T11:52:46-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/colorado/</loc>
+    <lastmod>2017-08-13T17:52:46-06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -178,6 +358,18 @@
   </url>
   
   <url>
+    <loc>http://dogsbuttbrew.com/tags/hardware/</loc>
+    <lastmod>2017-07-17T08:26:10-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/support/</loc>
+    <lastmod>2017-07-17T08:26:10-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dogsbuttbrew.com/post/2017/06/new-driver-out-there/</loc>
     <lastmod>2017-06-29T14:52:46-06:00</lastmod>
   </url>
@@ -195,6 +387,12 @@
   <url>
     <loc>http://dogsbuttbrew.com/post/2017/05/happy-mothers-day/</loc>
     <lastmod>2017-05-15T11:04:40-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/jenny/</loc>
+    <lastmod>2017-05-15T11:04:40-06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -223,6 +421,12 @@
   </url>
   
   <url>
+    <loc>http://dogsbuttbrew.com/tags/firsts/</loc>
+    <lastmod>2016-11-21T09:31:29-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dogsbuttbrew.com/post/2016/11/a-bloggable-offense/</loc>
     <lastmod>2016-11-08T09:22:02-07:00</lastmod>
   </url>
@@ -230,6 +434,24 @@
   <url>
     <loc>http://dogsbuttbrew.com/post/2016/10/october-2016-big-update/</loc>
     <lastmod>2016-10-31T19:39:06-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/adoption/</loc>
+    <lastmod>2016-10-31T19:39:06-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/halloween/</loc>
+    <lastmod>2016-10-31T19:39:06-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/remodeling/</loc>
+    <lastmod>2016-10-31T19:39:06-06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -258,8 +480,20 @@
   </url>
   
   <url>
+    <loc>http://dogsbuttbrew.com/tags/bootstrap/</loc>
+    <lastmod>2016-08-18T19:04:39-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dogsbuttbrew.com/post/2016/08/more-english/</loc>
     <lastmod>2016-08-08T09:19:33-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/learning/</loc>
+    <lastmod>2016-08-08T09:19:33-06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -268,13 +502,37 @@
   </url>
   
   <url>
+    <loc>http://dogsbuttbrew.com/tags/hikes/</loc>
+    <lastmod>2016-07-31T21:04:51-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/outdoors/</loc>
+    <lastmod>2016-07-31T21:04:51-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dogsbuttbrew.com/post/2016/07/ethan-driving-lessons/</loc>
     <lastmod>2016-07-18T21:27:19-06:00</lastmod>
   </url>
   
   <url>
+    <loc>http://dogsbuttbrew.com/tags/driving/</loc>
+    <lastmod>2016-07-18T21:27:19-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dogsbuttbrew.com/post/2016/07/quintons-last-track-meet/</loc>
     <lastmod>2016-07-18T21:27:10-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/sports/</loc>
+    <lastmod>2016-07-18T21:27:10-06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -288,6 +546,12 @@
   </url>
   
   <url>
+    <loc>http://dogsbuttbrew.com/tags/childcare/</loc>
+    <lastmod>2016-06-23T21:43:24-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dogsbuttbrew.com/post/2016/06/achc-camp-and-english/</loc>
     <lastmod>2016-06-15T07:58:48-06:00</lastmod>
   </url>
@@ -295,6 +559,12 @@
   <url>
     <loc>http://dogsbuttbrew.com/post/2016/05/my-father-in-law/</loc>
     <lastmod>2016-05-26T10:33:43-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/loss/</loc>
+    <lastmod>2016-05-26T10:33:43-06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -310,6 +580,12 @@
   <url>
     <loc>http://dogsbuttbrew.com/post/2016/05/learning-english/</loc>
     <lastmod>2016-05-03T07:57:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/parenting/</loc>
+    <lastmod>2016-05-03T07:57:13-06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -343,6 +619,12 @@
   </url>
   
   <url>
+    <loc>http://dogsbuttbrew.com/tags/programming/</loc>
+    <lastmod>2016-02-01T10:53:23-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dogsbuttbrew.com/post/2016/01/january-ski-weekend/</loc>
     <lastmod>2016-01-26T07:41:50-07:00</lastmod>
   </url>
@@ -350,6 +632,12 @@
   <url>
     <loc>http://dogsbuttbrew.com/post/2016/01/drc-update/</loc>
     <lastmod>2016-01-21T08:04:12-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/politics/</loc>
+    <lastmod>2016-01-21T08:04:12-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -368,6 +656,18 @@
   </url>
   
   <url>
+    <loc>http://dogsbuttbrew.com/tags/kitchen/</loc>
+    <lastmod>2015-12-14T07:27:08-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/plumbing/</loc>
+    <lastmod>2015-12-14T07:27:08-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dogsbuttbrew.com/post/2015/12/thanksgiving-colorado-style/</loc>
     <lastmod>2015-12-03T07:44:26-07:00</lastmod>
   </url>
@@ -378,8 +678,50 @@
   </url>
   
   <url>
+    <loc>http://dogsbuttbrew.com/tags/glen/</loc>
+    <lastmod>2015-11-23T09:37:32-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/guest-contributor/</loc>
+    <lastmod>2015-11-23T09:37:32-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/iowa/</loc>
+    <lastmod>2015-11-23T09:37:32-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/memoirs/</loc>
+    <lastmod>2015-11-23T09:37:32-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dogsbuttbrew.com/post/2015/11/casa-bonita/</loc>
     <lastmod>2015-11-22T20:49:12-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/categories/weekends/</loc>
+    <lastmod>2015-11-22T20:49:12-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/entertainment/</loc>
+    <lastmod>2015-11-22T20:49:12-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/restaurants/</loc>
+    <lastmod>2015-11-22T20:49:12-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -388,8 +730,26 @@
   </url>
   
   <url>
+    <loc>http://dogsbuttbrew.com/tags/garage/</loc>
+    <lastmod>2015-11-22T20:02:33-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/storage/</loc>
+    <lastmod>2015-11-22T20:02:33-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dogsbuttbrew.com/post/2015/11/adoption-woes/</loc>
     <lastmod>2015-11-20T10:22:35-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/drc/</loc>
+    <lastmod>2015-11-20T10:22:35-06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -413,6 +773,18 @@
   </url>
   
   <url>
+    <loc>http://dogsbuttbrew.com/categories/oldblog/</loc>
+    <lastmod>2015-11-07T10:06:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/reclaimed/</loc>
+    <lastmod>2015-11-07T10:06:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dogsbuttbrew.com/post/2015/11/now-with-comments/</loc>
     <lastmod>2015-11-05T10:12:59-07:00</lastmod>
   </url>
@@ -428,8 +800,20 @@
   </url>
   
   <url>
+    <loc>http://dogsbuttbrew.com/tags/gadgets/</loc>
+    <lastmod>2015-10-27T21:34:14-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dogsbuttbrew.com/post/2015/10/skype-with-mireille/</loc>
     <lastmod>2015-10-24T09:53:21-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/heinz/</loc>
+    <lastmod>2015-10-24T09:52:05-06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -533,6 +917,12 @@
   </url>
   
   <url>
+    <loc>http://dogsbuttbrew.com/tags/tmi/</loc>
+    <lastmod>2014-09-08T11:22:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dogsbuttbrew.com/reclaimed/older-kids.../</loc>
     <lastmod>2014-07-23T10:39:00+00:00</lastmod>
   </url>
@@ -580,6 +970,12 @@
   <url>
     <loc>http://dogsbuttbrew.com/reclaimed/spring-break-2014-minnesota/</loc>
     <lastmod>2014-04-21T22:56:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/categories/oldsite/</loc>
+    <lastmod>2014-04-20T23:54:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -633,6 +1029,12 @@
   </url>
   
   <url>
+    <loc>http://dogsbuttbrew.com/tags/incomplete/</loc>
+    <lastmod>2013-01-06T18:40:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dogsbuttbrew.com/reclaimed/quick-updates/</loc>
     <lastmod>2013-01-06T18:40:00+00:00</lastmod>
   </url>
@@ -640,6 +1042,12 @@
   <url>
     <loc>http://dogsbuttbrew.com/reclaimed/halloween-update/</loc>
     <lastmod>2012-11-07T21:33:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/fitness/</loc>
+    <lastmod>2012-08-05T20:41:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -803,6 +1211,12 @@
   </url>
   
   <url>
+    <loc>http://dogsbuttbrew.com/tags/dancing/</loc>
+    <lastmod>2010-12-29T10:58:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dogsbuttbrew.com/reclaimed/dancing-quin/</loc>
     <lastmod>2010-12-29T10:58:00+00:00</lastmod>
   </url>
@@ -810,6 +1224,12 @@
   <url>
     <loc>http://dogsbuttbrew.com/reclaimed/6-feet-of-air/</loc>
     <lastmod>2010-12-28T13:03:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/skiing/</loc>
+    <lastmod>2010-12-28T13:03:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -983,6 +1403,18 @@
   </url>
   
   <url>
+    <loc>http://dogsbuttbrew.com/tags/cubscouts/</loc>
+    <lastmod>2009-07-12T21:17:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/barley/</loc>
+    <lastmod>2009-06-03T21:10:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dogsbuttbrew.com/reclaimed/pets.../</loc>
     <lastmod>2009-06-03T21:10:00+00:00</lastmod>
   </url>
@@ -1063,6 +1495,12 @@
   </url>
   
   <url>
+    <loc>http://dogsbuttbrew.com/tags/triathlon/</loc>
+    <lastmod>2008-07-13T20:18:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dogsbuttbrew.com/reclaimed/milestones/</loc>
     <lastmod>2008-07-06T20:09:00+00:00</lastmod>
   </url>
@@ -1075,6 +1513,18 @@
   <url>
     <loc>http://dogsbuttbrew.com/reclaimed/a-rough-36-hours.../</loc>
     <lastmod>2008-06-09T21:43:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/homeimprovement/</loc>
+    <lastmod>2008-06-09T21:43:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/birthday/</loc>
+    <lastmod>2008-05-18T20:28:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1138,8 +1588,20 @@
   </url>
   
   <url>
+    <loc>http://dogsbuttbrew.com/tags/drawing/</loc>
+    <lastmod>2008-03-03T22:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dogsbuttbrew.com/reclaimed/loose-teeth-and-doctors-visits/</loc>
     <lastmod>2008-03-03T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/lost-teeth/</loc>
+    <lastmod>2008-03-03T22:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1300,467 +1762,6 @@
   <url>
     <loc>http://dogsbuttbrew.com/reclaimed/happy-halloween/</loc>
     <lastmod>2005-10-31T19:41:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/adoption/</loc>
-    <lastmod>2016-10-31T19:39:06-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/amusing/</loc>
-    <lastmod>2017-09-05T11:52:46-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/aws/</loc>
-    <lastmod>2018-03-04T12:26:58-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/barley/</loc>
-    <lastmod>2009-06-03T21:10:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/bathroom/</loc>
-    <lastmod>2018-02-27T09:36:02-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/birthday/</loc>
-    <lastmod>2008-05-18T20:28:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/blog/</loc>
-    <lastmod>2018-05-04T14:45:58-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/bootstrap/</loc>
-    <lastmod>2016-08-18T19:04:39-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/car/</loc>
-    <lastmod>2017-11-20T16:16:59-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/childcare/</loc>
-    <lastmod>2016-06-23T21:43:24-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/colorado/</loc>
-    <lastmod>2017-08-13T17:52:46-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/cubscouts/</loc>
-    <lastmod>2009-07-12T21:17:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/dancing/</loc>
-    <lastmod>2010-12-29T10:58:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/categories/diy/</loc>
-    <lastmod>2018-02-27T09:36:02-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/drawing/</loc>
-    <lastmod>2008-03-03T22:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/drc/</loc>
-    <lastmod>2015-11-20T10:22:35-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/driving/</loc>
-    <lastmod>2016-07-18T21:27:19-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/electrical/</loc>
-    <lastmod>2018-02-27T09:36:02-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/entertainment/</loc>
-    <lastmod>2015-11-22T20:49:12-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/ethan/</loc>
-    <lastmod>2018-11-25T19:58:19-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/categories/family/</loc>
-    <lastmod>2019-02-28T09:58:38-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/firsts/</loc>
-    <lastmod>2016-11-21T09:31:29-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/fitness/</loc>
-    <lastmod>2012-08-05T20:41:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/funny/</loc>
-    <lastmod>2018-11-10T19:58:19-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/gadgets/</loc>
-    <lastmod>2015-10-27T21:34:14-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/garage/</loc>
-    <lastmod>2015-11-22T20:02:33-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/github/</loc>
-    <lastmod>2018-03-04T12:26:58-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/glen/</loc>
-    <lastmod>2015-11-23T09:37:32-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/guest-contributor/</loc>
-    <lastmod>2015-11-23T09:37:32-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/halloween/</loc>
-    <lastmod>2016-10-31T19:39:06-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/hardware/</loc>
-    <lastmod>2017-07-17T08:26:10-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/heinz/</loc>
-    <lastmod>2015-10-24T09:52:05-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/hikes/</loc>
-    <lastmod>2016-07-31T21:04:51-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/holiday/</loc>
-    <lastmod>2018-02-06T10:50:09-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/holidays/</loc>
-    <lastmod>2017-12-06T18:45:01-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/homeimprovement/</loc>
-    <lastmod>2008-06-09T21:43:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/hugo/</loc>
-    <lastmod>2018-03-04T12:26:58-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/incomplete/</loc>
-    <lastmod>2013-01-06T18:40:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/iowa/</loc>
-    <lastmod>2015-11-23T09:37:32-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/jenny/</loc>
-    <lastmod>2017-05-15T11:04:40-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/kids/</loc>
-    <lastmod>2018-11-01T10:10:26-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/kitchen/</loc>
-    <lastmod>2015-12-14T07:27:08-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/lawn/</loc>
-    <lastmod>2017-10-12T08:42:44-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/learning/</loc>
-    <lastmod>2016-08-08T09:19:33-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/loss/</loc>
-    <lastmod>2016-05-26T10:33:43-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/lost-teeth/</loc>
-    <lastmod>2008-03-03T22:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/memoirs/</loc>
-    <lastmod>2015-11-23T09:37:32-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/mireille/</loc>
-    <lastmod>2019-02-04T17:00:42-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/categories/misc/</loc>
-    <lastmod>2018-05-04T14:45:58-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/categories/oldblog/</loc>
-    <lastmod>2015-11-07T10:06:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/categories/oldsite/</loc>
-    <lastmod>2014-04-20T23:54:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/outdoors/</loc>
-    <lastmod>2016-07-31T21:04:51-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/parenting/</loc>
-    <lastmod>2016-05-03T07:57:13-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/pets/</loc>
-    <lastmod>2018-12-03T14:48:10-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/plumbing/</loc>
-    <lastmod>2015-12-14T07:27:08-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/politics/</loc>
-    <lastmod>2016-01-21T08:04:12-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/post/</loc>
-    <lastmod>2019-02-28T09:58:38-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/programming/</loc>
-    <lastmod>2016-02-01T10:53:23-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/quin/</loc>
-    <lastmod>2019-02-28T09:58:38-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/quinton/</loc>
-    <lastmod>2019-02-04T17:00:42-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/reclaimed/</loc>
-    <lastmod>2015-11-07T10:06:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/remodeling/</loc>
-    <lastmod>2016-10-31T19:39:06-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/restaurants/</loc>
-    <lastmod>2015-11-22T20:49:12-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/route-53/</loc>
-    <lastmod>2018-03-04T12:26:58-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/skiing/</loc>
-    <lastmod>2010-12-28T13:03:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/sports/</loc>
-    <lastmod>2016-07-18T21:27:10-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/storage/</loc>
-    <lastmod>2015-11-22T20:02:33-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/support/</loc>
-    <lastmod>2017-07-17T08:26:10-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/</loc>
-    <lastmod>2016-10-31T19:39:06-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/categories/technology/</loc>
-    <lastmod>2018-03-04T12:26:58-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/</loc>
-    <lastmod>2019-02-28T09:58:38-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/tmi/</loc>
-    <lastmod>2014-09-08T11:22:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/travel/</loc>
-    <lastmod>2018-03-31T20:15:04-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/triathlon/</loc>
-    <lastmod>2008-07-13T20:18:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/vacation/</loc>
-    <lastmod>2018-11-25T19:58:19-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/categories/weekends/</loc>
-    <lastmod>2015-11-22T20:49:12-07:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>
