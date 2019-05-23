@@ -6,15 +6,24 @@
     <description>Recent content in Tags on The Hydrant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Apr 2019 09:38:11 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2019 13:18:08 -0600</lastBuildDate>
     
 	<atom:link href="http://dogsbuttbrew.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>funny</title>
+      <link>http://dogsbuttbrew.com/tags/funny/</link>
+      <pubDate>Wed, 22 May 2019 13:18:08 -0600</pubDate>
+      
+      <guid>http://dogsbuttbrew.com/tags/funny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>mireille</title>
       <link>http://dogsbuttbrew.com/tags/mireille/</link>
-      <pubDate>Tue, 30 Apr 2019 09:38:11 -0600</pubDate>
+      <pubDate>Wed, 22 May 2019 13:18:08 -0600</pubDate>
       
       <guid>http://dogsbuttbrew.com/tags/mireille/</guid>
       <description></description>
@@ -62,15 +71,6 @@
       <pubDate>Sun, 25 Nov 2018 19:58:19 -0700</pubDate>
       
       <guid>http://dogsbuttbrew.com/tags/vacation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>funny</title>
-      <link>http://dogsbuttbrew.com/tags/funny/</link>
-      <pubDate>Sat, 10 Nov 2018 19:58:19 -0700</pubDate>
-      
-      <guid>http://dogsbuttbrew.com/tags/funny/</guid>
       <description></description>
     </item>
     
@@ -201,7 +201,7 @@
     </item>
     
     <item>
-      <title>colorado</title>
+      <title>Colorado</title>
       <link>http://dogsbuttbrew.com/tags/colorado/</link>
       <pubDate>Sun, 13 Aug 2017 17:52:46 -0600</pubDate>
       
@@ -291,20 +291,20 @@
     </item>
     
     <item>
-      <title>Outdoors</title>
-      <link>http://dogsbuttbrew.com/tags/outdoors/</link>
-      <pubDate>Sun, 31 Jul 2016 21:04:51 -0600</pubDate>
-      
-      <guid>http://dogsbuttbrew.com/tags/outdoors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>hikes</title>
       <link>http://dogsbuttbrew.com/tags/hikes/</link>
       <pubDate>Sun, 31 Jul 2016 21:04:51 -0600</pubDate>
       
       <guid>http://dogsbuttbrew.com/tags/hikes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>outdoors</title>
+      <link>http://dogsbuttbrew.com/tags/outdoors/</link>
+      <pubDate>Sun, 31 Jul 2016 21:04:51 -0600</pubDate>
+      
+      <guid>http://dogsbuttbrew.com/tags/outdoors/</guid>
       <description></description>
     </item>
     
