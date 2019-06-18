@@ -4,43 +4,48 @@
   
   <url>
     <loc>http://dogsbuttbrew.com/categories/</loc>
-    <lastmod>2019-06-17T00:44:45-06:00</lastmod>
+    <lastmod>2019-06-16T20:54:53-10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://dogsbuttbrew.com/categories/family/</loc>
-    <lastmod>2019-06-17T00:44:45-06:00</lastmod>
+    <lastmod>2019-06-16T20:54:53-10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/post/2019/06/hawaii-vacation-2019-day-2/</loc>
+    <lastmod>2019-06-16T20:54:53-10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/post/</loc>
+    <lastmod>2019-06-16T20:54:53-10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/</loc>
+    <lastmod>2019-06-16T20:54:53-10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/</loc>
+    <lastmod>2019-06-16T20:54:53-10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/tags/vacation/</loc>
+    <lastmod>2019-06-16T20:54:53-10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://dogsbuttbrew.com/post/2019/06/hawaii-vacation-2019-day-1/</loc>
     <lastmod>2019-06-17T00:44:45-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/post/</loc>
-    <lastmod>2019-06-17T00:44:45-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/</loc>
-    <lastmod>2019-06-17T00:44:45-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/</loc>
-    <lastmod>2019-06-17T00:44:45-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dogsbuttbrew.com/tags/vacation/</loc>
-    <lastmod>2019-06-17T00:44:45-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -61,14 +66,14 @@
   </url>
   
   <url>
-    <loc>http://dogsbuttbrew.com/tags/quin/</loc>
+    <loc>http://dogsbuttbrew.com/post/2019/04/teeth-hoops-and-firsts/</loc>
     <lastmod>2019-04-30T09:38:11-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://dogsbuttbrew.com/post/2019/04/teeth-hoops-and-firsts/</loc>
+    <loc>http://dogsbuttbrew.com/tags/quin/</loc>
     <lastmod>2019-04-30T09:38:11-06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -342,14 +347,14 @@
   </url>
   
   <url>
-    <loc>http://dogsbuttbrew.com/tags/colorado/</loc>
+    <loc>http://dogsbuttbrew.com/post/2017/08/colorado-adventure-series-snow-mountain-ranch-day-4/</loc>
     <lastmod>2017-08-13T17:52:46-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://dogsbuttbrew.com/post/2017/08/colorado-adventure-series-snow-mountain-ranch-day-4/</loc>
+    <loc>http://dogsbuttbrew.com/tags/colorado/</loc>
     <lastmod>2017-08-13T17:52:46-06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -517,13 +522,13 @@
   </url>
   
   <url>
-    <loc>http://dogsbuttbrew.com/tags/hikes/</loc>
+    <loc>http://dogsbuttbrew.com/tags/outdoors/</loc>
     <lastmod>2016-07-31T21:04:51-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://dogsbuttbrew.com/tags/outdoors/</loc>
+    <loc>http://dogsbuttbrew.com/tags/hikes/</loc>
     <lastmod>2016-07-31T21:04:51-06:00</lastmod>
     <priority>0</priority>
   </url>
