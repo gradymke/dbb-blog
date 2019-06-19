@@ -264,18 +264,18 @@
   </url>
   
   <url>
-    <loc>http://dogsbuttbrew.com/categories/diy/</loc>
-    <lastmod>2018-02-27T09:36:02-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://dogsbuttbrew.com/post/2018/02/the-next-renovation/</loc>
     <lastmod>2018-02-27T09:36:02-07:00</lastmod>
   </url>
   
   <url>
     <loc>http://dogsbuttbrew.com/tags/bathroom/</loc>
+    <lastmod>2018-02-27T09:36:02-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dogsbuttbrew.com/categories/diy/</loc>
     <lastmod>2018-02-27T09:36:02-07:00</lastmod>
     <priority>0</priority>
   </url>
