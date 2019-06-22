@@ -6,7 +6,7 @@
     <description>Recent content in Tags on The Hydrant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jun 2019 21:51:32 -1000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2019 22:19:47 -1000</lastBuildDate>
     
 	<atom:link href="http://dogsbuttbrew.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>vacation</title>
       <link>http://dogsbuttbrew.com/tags/vacation/</link>
-      <pubDate>Tue, 18 Jun 2019 21:51:32 -1000</pubDate>
+      <pubDate>Wed, 19 Jun 2019 22:19:47 -1000</pubDate>
       
       <guid>http://dogsbuttbrew.com/tags/vacation/</guid>
       <description></description>
@@ -39,7 +39,7 @@
     </item>
     
     <item>
-      <title>Quin</title>
+      <title>quin</title>
       <link>http://dogsbuttbrew.com/tags/quin/</link>
       <pubDate>Tue, 30 Apr 2019 09:38:11 -0600</pubDate>
       
@@ -201,7 +201,7 @@
     </item>
     
     <item>
-      <title>colorado</title>
+      <title>Colorado</title>
       <link>http://dogsbuttbrew.com/tags/colorado/</link>
       <pubDate>Sun, 13 Aug 2017 17:52:46 -0600</pubDate>
       
@@ -291,20 +291,20 @@
     </item>
     
     <item>
-      <title>Outdoors</title>
-      <link>http://dogsbuttbrew.com/tags/outdoors/</link>
-      <pubDate>Sun, 31 Jul 2016 21:04:51 -0600</pubDate>
-      
-      <guid>http://dogsbuttbrew.com/tags/outdoors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>hikes</title>
       <link>http://dogsbuttbrew.com/tags/hikes/</link>
       <pubDate>Sun, 31 Jul 2016 21:04:51 -0600</pubDate>
       
       <guid>http://dogsbuttbrew.com/tags/hikes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>outdoors</title>
+      <link>http://dogsbuttbrew.com/tags/outdoors/</link>
+      <pubDate>Sun, 31 Jul 2016 21:04:51 -0600</pubDate>
+      
+      <guid>http://dogsbuttbrew.com/tags/outdoors/</guid>
       <description></description>
     </item>
     
