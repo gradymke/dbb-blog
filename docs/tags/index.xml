@@ -6,10 +6,28 @@
     <description>Recent content in Tags on The Hydrant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Jun 2019 20:38:50 -1000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2019 13:18:08 -0600</lastBuildDate>
     
 	<atom:link href="http://dogsbuttbrew.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ethan</title>
+      <link>http://dogsbuttbrew.com/tags/ethan/</link>
+      <pubDate>Mon, 05 Aug 2019 13:18:08 -0600</pubDate>
+      
+      <guid>http://dogsbuttbrew.com/tags/ethan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>milestones</title>
+      <link>http://dogsbuttbrew.com/tags/milestones/</link>
+      <pubDate>Mon, 05 Aug 2019 13:18:08 -0600</pubDate>
+      
+      <guid>http://dogsbuttbrew.com/tags/milestones/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>vacation</title>
@@ -39,7 +57,7 @@
     </item>
     
     <item>
-      <title>quin</title>
+      <title>Quin</title>
       <link>http://dogsbuttbrew.com/tags/quin/</link>
       <pubDate>Tue, 30 Apr 2019 09:38:11 -0600</pubDate>
       
@@ -48,7 +66,7 @@
     </item>
     
     <item>
-      <title>Quinton</title>
+      <title>quinton</title>
       <link>http://dogsbuttbrew.com/tags/quinton/</link>
       <pubDate>Mon, 04 Feb 2019 17:00:42 -0700</pubDate>
       
@@ -62,15 +80,6 @@
       <pubDate>Mon, 03 Dec 2018 14:48:10 -0700</pubDate>
       
       <guid>http://dogsbuttbrew.com/tags/pets/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ethan</title>
-      <link>http://dogsbuttbrew.com/tags/ethan/</link>
-      <pubDate>Sun, 25 Nov 2018 19:58:19 -0700</pubDate>
-      
-      <guid>http://dogsbuttbrew.com/tags/ethan/</guid>
       <description></description>
     </item>
     
