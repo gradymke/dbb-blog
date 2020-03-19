@@ -56,6 +56,20 @@ that in the future.
 
 {{< picture title="" height="400px" src="" >}}
 
+## Brain Matter
+
+I can't remember what this is supposed to be called, but it occasionally doesn't work when I upgrade Hugo. So here is a barebones information block for the top of each piece of content:
+
+```
+---
+categories: ["Family"]
+draft: true
+tags: ["vacation","travel"]
+date: 2020-03-19T08:50:41-06:00
+title: "COVID Reality - Day 1"
+---
+```
+
 ## Color Palette
 
 I'm not yet using it, but I've generated a color palette using

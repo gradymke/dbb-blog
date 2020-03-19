@@ -6,10 +6,28 @@
     <description>Recent content in Tags on The Hydrant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Feb 2020 11:35:19 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2020 19:39:41 -0600</lastBuildDate>
     
 	<atom:link href="http://dogsbuttbrew.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>travel</title>
+      <link>http://dogsbuttbrew.com/tags/travel/</link>
+      <pubDate>Wed, 18 Mar 2020 19:39:41 -0600</pubDate>
+      
+      <guid>http://dogsbuttbrew.com/tags/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vacation</title>
+      <link>http://dogsbuttbrew.com/tags/vacation/</link>
+      <pubDate>Wed, 18 Mar 2020 19:39:41 -0600</pubDate>
+      
+      <guid>http://dogsbuttbrew.com/tags/vacation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>brandon</title>
@@ -102,15 +120,6 @@
     </item>
     
     <item>
-      <title>vacation</title>
-      <link>http://dogsbuttbrew.com/tags/vacation/</link>
-      <pubDate>Sat, 22 Jun 2019 20:38:50 -1000</pubDate>
-      
-      <guid>http://dogsbuttbrew.com/tags/vacation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>pets</title>
       <link>http://dogsbuttbrew.com/tags/pets/</link>
       <pubDate>Mon, 03 Dec 2018 14:48:10 -0700</pubDate>
@@ -134,15 +143,6 @@
       <pubDate>Fri, 04 May 2018 14:45:58 -0600</pubDate>
       
       <guid>http://dogsbuttbrew.com/tags/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>travel</title>
-      <link>http://dogsbuttbrew.com/tags/travel/</link>
-      <pubDate>Sat, 31 Mar 2018 20:15:04 -0600</pubDate>
-      
-      <guid>http://dogsbuttbrew.com/tags/travel/</guid>
       <description></description>
     </item>
     
