@@ -41,7 +41,7 @@ then
 fi
 
 # rm -Rf $BUILD_DIR
-hugo --baseUrl="$BASE_URL" --destination="$BUILD_DIR"
+hugo --baseURL="$BASE_URL" --destination="$BUILD_DIR"
 
 if [ $DEPLOY == "YES" ]
 then
