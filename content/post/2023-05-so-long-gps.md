@@ -21,4 +21,4 @@ After getting them home, the new guardian of the GPs sent some pics and videos o
 
 So, the GPs are gone. It's definitely been strange to get used to, but one that that hasn't been difficult to get used to is the better air quality in my office! I also enjoy having an extra hour or more a week. I'm sure I will use that wisely and won't use it just to doom scroll on the internet or play video games!
 
-{{< picture title="My Little Gentlement" height="400px" src="https://lh3.googleusercontent.com/pw/AJFCJaW0G0satG7lXNxqOgmvQ8J6ZmB4252QWbwNgHQ3XO7pJApdy7dxBZCaVDGITLkJ6kyFQ49A-WiNTt5N9NlXZy7645_RcDP7rU1TroDx2101hGrpNwUupgEQQxpuzRnlpuLMkny2Alu-HSZwaWdU7RjPrQ=w2560-h1440-s-no" >}}
+{{< picture title="My Little Gentlemen" height="400px" src="https://lh3.googleusercontent.com/pw/AJFCJaW0G0satG7lXNxqOgmvQ8J6ZmB4252QWbwNgHQ3XO7pJApdy7dxBZCaVDGITLkJ6kyFQ49A-WiNTt5N9NlXZy7645_RcDP7rU1TroDx2101hGrpNwUupgEQQxpuzRnlpuLMkny2Alu-HSZwaWdU7RjPrQ=w2560-h1440-s-no" >}}
