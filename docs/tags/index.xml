@@ -6,20 +6,29 @@
     <description>Recent content in Tags on The Hydrant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 May 2023 09:03:26 -0600</lastBuildDate><atom:link href="http://dogsbuttbrew.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Jun 2023 14:43:30 -0600</lastBuildDate><atom:link href="http://dogsbuttbrew.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>pets</title>
-      <link>http://dogsbuttbrew.com/tags/pets/</link>
-      <pubDate>Thu, 18 May 2023 09:03:26 -0600</pubDate>
+      <title>Ethan</title>
+      <link>http://dogsbuttbrew.com/tags/ethan/</link>
+      <pubDate>Mon, 19 Jun 2023 14:43:30 -0600</pubDate>
       
-      <guid>http://dogsbuttbrew.com/tags/pets/</guid>
+      <guid>http://dogsbuttbrew.com/tags/ethan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>funny</title>
+      <link>http://dogsbuttbrew.com/tags/funny/</link>
+      <pubDate>Mon, 19 Jun 2023 14:43:30 -0600</pubDate>
+      
+      <guid>http://dogsbuttbrew.com/tags/funny/</guid>
       <description></description>
     </item>
     
     <item>
       <title>kids</title>
       <link>http://dogsbuttbrew.com/tags/kids/</link>
-      <pubDate>Wed, 10 May 2023 09:38:11 -0600</pubDate>
+      <pubDate>Mon, 19 Jun 2023 14:43:30 -0600</pubDate>
       
       <guid>http://dogsbuttbrew.com/tags/kids/</guid>
       <description></description>
@@ -28,9 +37,18 @@
     <item>
       <title>mireille</title>
       <link>http://dogsbuttbrew.com/tags/mireille/</link>
-      <pubDate>Wed, 10 May 2023 09:38:11 -0600</pubDate>
+      <pubDate>Mon, 19 Jun 2023 14:43:30 -0600</pubDate>
       
       <guid>http://dogsbuttbrew.com/tags/mireille/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pets</title>
+      <link>http://dogsbuttbrew.com/tags/pets/</link>
+      <pubDate>Thu, 18 May 2023 09:03:26 -0600</pubDate>
+      
+      <guid>http://dogsbuttbrew.com/tags/pets/</guid>
       <description></description>
     </item>
     
@@ -62,15 +80,6 @@
     </item>
     
     <item>
-      <title>funny</title>
-      <link>http://dogsbuttbrew.com/tags/funny/</link>
-      <pubDate>Wed, 21 Apr 2021 19:23:27 -0600</pubDate>
-      
-      <guid>http://dogsbuttbrew.com/tags/funny/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Quinton</title>
       <link>http://dogsbuttbrew.com/tags/quinton/</link>
       <pubDate>Wed, 21 Apr 2021 19:23:27 -0600</pubDate>
@@ -94,15 +103,6 @@
       <pubDate>Wed, 02 Sep 2020 09:03:44 -0600</pubDate>
       
       <guid>http://dogsbuttbrew.com/tags/college/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ethan</title>
-      <link>http://dogsbuttbrew.com/tags/ethan/</link>
-      <pubDate>Wed, 02 Sep 2020 09:03:44 -0600</pubDate>
-      
-      <guid>http://dogsbuttbrew.com/tags/ethan/</guid>
       <description></description>
     </item>
     
