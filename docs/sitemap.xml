@@ -2,16 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://dogsbuttbrew.com/categories/</loc>
+    <lastmod>2023-06-23T08:03:43-06:00</lastmod>
+  </url><url>
+    <loc>http://dogsbuttbrew.com/categories/family/</loc>
+    <lastmod>2023-06-23T08:03:43-06:00</lastmod>
+  </url><url>
+    <loc>http://dogsbuttbrew.com/tags/gadgets/</loc>
+    <lastmod>2023-06-23T08:03:43-06:00</lastmod>
+  </url><url>
+    <loc>http://dogsbuttbrew.com/post/2023/06/hey-mo/</loc>
+    <lastmod>2023-06-23T08:03:43-06:00</lastmod>
+  </url><url>
+    <loc>http://dogsbuttbrew.com/post/</loc>
+    <lastmod>2023-06-23T08:03:43-06:00</lastmod>
+  </url><url>
+    <loc>http://dogsbuttbrew.com/tags/</loc>
+    <lastmod>2023-06-23T08:03:43-06:00</lastmod>
+  </url><url>
+    <loc>http://dogsbuttbrew.com/</loc>
+    <lastmod>2023-06-23T08:03:43-06:00</lastmod>
+  </url><url>
     <loc>http://dogsbuttbrew.com/post/2023/06/best-mother-so-far/</loc>
     <lastmod>2023-06-19T14:43:30-06:00</lastmod>
   </url><url>
-    <loc>http://dogsbuttbrew.com/categories/</loc>
-    <lastmod>2023-06-19T14:43:30-06:00</lastmod>
-  </url><url>
     <loc>http://dogsbuttbrew.com/tags/ethan/</loc>
-    <lastmod>2023-06-19T14:43:30-06:00</lastmod>
-  </url><url>
-    <loc>http://dogsbuttbrew.com/categories/family/</loc>
     <lastmod>2023-06-19T14:43:30-06:00</lastmod>
   </url><url>
     <loc>http://dogsbuttbrew.com/tags/funny/</loc>
@@ -21,15 +36,6 @@
     <lastmod>2023-06-19T14:43:30-06:00</lastmod>
   </url><url>
     <loc>http://dogsbuttbrew.com/tags/mireille/</loc>
-    <lastmod>2023-06-19T14:43:30-06:00</lastmod>
-  </url><url>
-    <loc>http://dogsbuttbrew.com/post/</loc>
-    <lastmod>2023-06-19T14:43:30-06:00</lastmod>
-  </url><url>
-    <loc>http://dogsbuttbrew.com/tags/</loc>
-    <lastmod>2023-06-19T14:43:30-06:00</lastmod>
-  </url><url>
-    <loc>http://dogsbuttbrew.com/</loc>
     <lastmod>2023-06-19T14:43:30-06:00</lastmod>
   </url><url>
     <loc>http://dogsbuttbrew.com/tags/pets/</loc>
@@ -643,9 +649,6 @@
   </url><url>
     <loc>http://dogsbuttbrew.com/post/2015/11/quinton-and-fun-with-words/</loc>
     <lastmod>2015-11-01T19:21:14-06:00</lastmod>
-  </url><url>
-    <loc>http://dogsbuttbrew.com/tags/gadgets/</loc>
-    <lastmod>2015-10-27T21:34:14-06:00</lastmod>
   </url><url>
     <loc>http://dogsbuttbrew.com/post/2015/10/there-i-fixed-it/</loc>
     <lastmod>2015-10-27T21:34:14-06:00</lastmod>
