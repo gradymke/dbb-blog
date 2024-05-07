@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>route 53 on The Hydrant</title>
+    <title>Route 53 on The Hydrant</title>
     <link>http://dogsbuttbrew.com/tags/route-53/</link>
-    <description>Recent content in route 53 on The Hydrant</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Route 53 on The Hydrant</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Mar 2018 12:26:58 -0700</lastBuildDate>
     <atom:link href="http://dogsbuttbrew.com/tags/route-53/index.xml" rel="self" type="application/rss+xml" />

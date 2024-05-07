@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>plumbing on The Hydrant</title>
+    <title>Plumbing on The Hydrant</title>
     <link>http://dogsbuttbrew.com/tags/plumbing/</link>
-    <description>Recent content in plumbing on The Hydrant</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Plumbing on The Hydrant</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 14 Dec 2015 07:27:08 -0700</lastBuildDate>
     <atom:link href="http://dogsbuttbrew.com/tags/plumbing/index.xml" rel="self" type="application/rss+xml" />

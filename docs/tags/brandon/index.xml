@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>brandon on The Hydrant</title>
+    <title>Brandon on The Hydrant</title>
     <link>http://dogsbuttbrew.com/tags/brandon/</link>
-    <description>Recent content in brandon on The Hydrant</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Brandon on The Hydrant</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Feb 2020 11:35:19 -0700</lastBuildDate>
     <atom:link href="http://dogsbuttbrew.com/tags/brandon/index.xml" rel="self" type="application/rss+xml" />
