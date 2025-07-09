@@ -1,83 +1,68 @@
-<!DOCTYPE html>
+<!doctype html>
 <!-- DBB-BOOTSTRAP SINGLE -->
 
-{{ $baseurl := .Site.BaseURL }}
-{{ $categories := .Params.categories }}
-{{ $tags := .Params.tags }}
+{{ $baseurl := .Site.BaseURL }} {{ $categories := .Params.categories }} {{ $tags
+:= .Params.tags }}
 
 <html xmlns="//www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
-  <head>
-    {{ partial "head.html" . }}
-  </head>
+    <head>
+        {{ partial "head.html" . }}
+    </head>
 
-  <body>
-    {{ partial "header.html" . }}
+    <body>
+        {{ partial "header.html" . }}
 
-    <div class="container">
-      <article class="row">
-        <header class="panel-heading">
-          <h1>{{ .Title }}</h1>
-          {{ with $categories }}
-            Posted in
-            {{ range $index, $category := $categories }}
-              {{ if gt $index 0 }}, {{ end }}
-              <a href="{{ $baseurl }}/categories/{{ $category | urlize }}">{{ $category }}</a>
-            {{ end }}
-          {{ end }}
+        <div class="container">
+            <article class="row">
+                <header class="panel-heading">
+                    <h1>{{ .Title }}</h1>
+                    {{ with $categories }} Posted in {{ range $index, $category
+                    := $categories }} {{ if gt $index 0 }}, {{ end }}
+                    <a href="{{ $baseurl }}/categories/{{ $category | urlize }}"
+                        >{{ $category }}</a
+                    >
+                    {{ end }} {{ end }} {{ with $tags }} with tags {{ range
+                    $index, $tag := $tags }} {{ if gt $index 0 }}, {{ end }}
+                    <a href="{{ $baseurl }}/tags/{{ $tag | urlize }}"
+                        >{{ $tag }}</a
+                    >
+                    {{ end }} {{ end }} {{ if or $categories $tags }} - {{ end
+                    }}
+                    <time>{{ .Date.Format "Monday, January 2, 2006" }}</time>
+                </header>
 
-          {{ with $tags }}
-            with tags
-            {{ range $index, $tag := $tags }}
-              {{ if gt $index 0 }}, {{ end }}
-              <a href="{{ $baseurl }}/tags/{{ $tag | urlize }}">{{ $tag }}</a>
-            {{ end }}
-          {{ end }}
-
-          {{ if or $categories $tags }} - {{ end }}
-          <time>{{ .Date.Format "Monday, January 2, 2006" }}</time>
-        </header>
-
-        <section class="panel-body">
-          {{ .Content }}
-        </section>
-      </article>
-    </div>
-
-    {{ partial "author.html" .}}
-
-    <div class="container article-nav">
-      <div class="row">
-        <div class="col-sm-6">
-          {{with .NextPage}}
-            <div class="pull-left">
-              Later article<br />
-              <a href="{{.Permalink}}"> {{.Title}}</a>
-            </div>
-          {{else}}
-            &nbsp;
-          {{end}}
+                <section class="panel-body">{{ .Content }}</section>
+            </article>
         </div>
 
-        <div class="col-sm-6">
-          {{with .PrevPage}}
-            <div class="pull-right">
-              Older article<br />
-              <a href="{{.Permalink}}"> {{.Title}}</a>
+        {{ partial "author.html" .}}
+
+        <div class="container article-nav">
+            <div class="row">
+                <div class="col-sm-6">
+                    {{with .Next}}
+                    <div class="pull-left">
+                        Later article<br />
+                        <a href="{{.Permalink}}"> {{.Title}}</a>
+                    </div>
+                    {{else}} &nbsp; {{end}}
+                </div>
+
+                <div class="col-sm-6">
+                    {{with .Prev}}
+                    <div class="pull-right">
+                        Older article<br />
+                        <a href="{{.Permalink}}"> {{.Title}}</a>
+                    </div>
+                    {{else}} &nbsp; {{end}}
+                </div>
             </div>
-          {{else}}
-            &nbsp;
-          {{end}}
         </div>
-      </div>
-    </div>
 
-    <div class="container">
-      <div class="row">
-        {{ template "_internal/disqus.html" . }}
-      </div>
-    </div>
+        <div class="container">
+            <div class="row">{{ template "_internal/disqus.html" . }}</div>
+        </div>
 
-    {{ partial "footer.html" . }}
-    {{ partial "tail.html" . }}
-  </body>
+        {{ partial "footer.html" . }} {{ partial "tail.html" . }}
+    </body>
 </html>
