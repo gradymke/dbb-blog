@@ -209,6 +209,17 @@
                             this.universe[i][this.columns] = false;
                         }
                     }
+                },
+                clearUniverse: function() {
+                    let newUniverse = [];
+                    for (let i = 0; i < this.rows; i++) {
+                        newUniverse[i] = [];
+                        for (let j = 0; j < this.columns; j++) {
+                            newUniverse[i][j] = false;
+                        }
+                    }
+
+                    this.universe = newUniverse;
                 }
             }"
             x-init="
@@ -228,6 +239,7 @@
             <button x-on:click="addRow">Add Row</button>
             <button x-on:click="loseColumn">Remove Column</button>
             <button x-on:click="addColumn">Add Column</button>
+            <button x-on:click="clearUniverse">Clear</button>
             <table border="1">
                 <tbody>
                     <template x-model="rows" x-for="ii in rows">
