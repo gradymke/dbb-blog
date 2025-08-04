@@ -136,7 +136,6 @@ document.addEventListener("alpine:init", () => {
         for (let j = 0; j < this.columns; j++) {
           nbrs = this.getNeighborCount(i, j);
           newCell = false; // Assume death
-          console.log(i + "-" + j + ":" + nbrs);
           // Any live cell with fewer than 2 live neighbors dies
           // Any live cell with 2-3 neighbors stays alive
           // Any live cell with > 3 neighbors dies
