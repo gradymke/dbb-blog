@@ -27,18 +27,7 @@
     </head>
 
     <body>
-        <div
-            x-data="grid"
-            x-init="
-                0 == 0; // no idea why there has to be an expression before the FOR loop...
-                for (i =  0; i < rows; i++) {
-                     universe[i] = [];
-                     for  (j = 0; j < columns; j++) {
-                          universe[i][j] = false;
-                     }
-                }
-                "
-        >
+        <div x-data="grid">
             <button x-on:click="console.log(universe)">Debug Universe</button>
             <button x-on:click="shiftRight">Shift Right</button>
             <button x-on:click="conwayGen">Conway</button>

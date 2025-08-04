@@ -201,5 +201,8 @@ document.addEventListener("alpine:init", () => {
 
       this.universe = newUniverse;
     },
+    init: function () {
+      this.clearUniverse();
+    },
   }));
 });
