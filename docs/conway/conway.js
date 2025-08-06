@@ -5,6 +5,8 @@ document.addEventListener("alpine:init", () => {
   Alpine.data("grid", () => ({
     rows: 20,
     columns: 20,
+    running: false,
+    interval: null,
     universe: [],
     calculateTaurusCoordinates: function (i, j) {
       let coords = [i, j];
@@ -199,6 +201,15 @@ document.addEventListener("alpine:init", () => {
       }
 
       this.universe = newUniverse;
+    },
+    toggleRunning: function () {
+      this.running = !this.running;
+
+      if (this.running) {
+        this.interval = setInterval(this.conwayGen.bind(this), 100);
+      } else {
+        clearInterval(this.interval);
+      }
     },
     init: function () {
       this.clearUniverse();

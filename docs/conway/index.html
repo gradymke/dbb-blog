@@ -16,14 +16,19 @@
 
     <body>
         <div x-data="grid">
-            <button x-on:click="console.log(universe)">Debug Universe</button>
-            <button x-on:click="shiftRight">Shift Right</button>
-            <button x-on:click="conwayGen">Conway</button>
-            <button x-on:click="loseRow">Remove Row</button>
-            <button x-on:click="addRow">Add Row</button>
-            <button x-on:click="loseColumn">Remove Column</button>
-            <button x-on:click="addColumn">Add Column</button>
-            <button x-on:click="clearUniverse">Clear</button>
+            <button type="button" ="console.log(universe)">
+                Debug Universe
+            </button>
+            <button type="button" x-on:click="shiftRight">Shift Right</button>
+            <button type="button" x-on:click="conwayGen">Conway</button>
+            <button type="button" x-on:click="loseRow">Remove Row</button>
+            <button type="button" x-on:click="addRow">Add Row</button>
+            <button type="button" x-on:click="loseColumn">Remove Column</button>
+            <button type="button" x-on:click="addColumn">Add Column</button>
+            <button type="button" x-on:click="toggleRunning">
+                <span x-text="running ? 'Stop' : 'Run'"></span>
+            </button>
+            <button type="button" x-on:click="clearUniverse">Clear</button>
             <table>
                 <tbody>
                     <template x-model="rows" x-for="ii in rows">
