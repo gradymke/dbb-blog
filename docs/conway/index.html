@@ -20,15 +20,28 @@
                 Debug Universe
             </button>
             <button type="button" x-on:click="shiftRight">Shift Right</button>
-            <button type="button" x-on:click="conwayGen">Conway</button>
             <button type="button" x-on:click="loseRow">Remove Row</button>
             <button type="button" x-on:click="addRow">Add Row</button>
             <button type="button" x-on:click="loseColumn">Remove Column</button>
             <button type="button" x-on:click="addColumn">Add Column</button>
-            <button type="button" x-on:click="toggleRunning">
-                <span x-text="running ? 'Stop' : 'Run'"></span>
-            </button>
-            <button type="button" x-on:click="clearUniverse">Clear</button>
+            <button
+                type="button"
+                x-on:click="toggleRunning"
+                x-bind:class="running ? 'stop' : 'play'"
+                x-bind:title="running ? 'Stop' : 'Play'"
+            ></button>
+            <button
+                type="button"
+                title="Step"
+                class="step"
+                x-on:click="conwayGen"
+            ></button>
+            <button
+                type="button"
+                title="Clear"
+                class="clear"
+                x-on:click="clearUniverse"
+            ></button>
             <table>
                 <tbody>
                     <template x-model="rows" x-for="ii in rows">
