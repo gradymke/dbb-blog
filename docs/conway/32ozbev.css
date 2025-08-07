@@ -19,34 +19,43 @@ td {
     background-color: white;
 }
 
-.stop {
-    background-image: url("stop.svg");
-    background-size: cover;
-    background-repeat: no-repeat;
+button {
     height: 50px;
     width: 50px;
+    border: none;
+    background-color: transparent;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.stop {
+    background-image: url("stop.svg");
 }
 
 .play {
     background-image: url("play.svg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 50px;
-    width: 50px;
 }
 
 .step {
     background-image: url("step-forward.svg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 50px;
-    width: 50px;
 }
 
 .clear {
     background-image: url("eraser.svg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 50px;
-    width: 50px;
+}
+
+.addColumn {
+    background-image: url("arrow-right.svg");
+}
+
+.removeColumn {
+    background-image: url("arrow-left.svg");
+}
+
+.addRow {
+    background-image: url("arrow-down.svg");
+}
+
+.removeRow {
+    background-image: url("arrow-up.svg");
 }

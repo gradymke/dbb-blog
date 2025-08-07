@@ -15,33 +15,54 @@
     </head>
 
     <body>
+        <h1>Conway's Life</h1>
         <div x-data="grid">
-            <button type="button" ="console.log(universe)">
-                Debug Universe
-            </button>
-            <button type="button" x-on:click="shiftRight">Shift Right</button>
-            <button type="button" x-on:click="loseRow">Remove Row</button>
-            <button type="button" x-on:click="addRow">Add Row</button>
-            <button type="button" x-on:click="loseColumn">Remove Column</button>
-            <button type="button" x-on:click="addColumn">Add Column</button>
-            <button
-                type="button"
-                x-on:click="toggleRunning"
-                x-bind:class="running ? 'stop' : 'play'"
-                x-bind:title="running ? 'Stop' : 'Play'"
-            ></button>
-            <button
-                type="button"
-                title="Step"
-                class="step"
-                x-on:click="conwayGen"
-            ></button>
-            <button
-                type="button"
-                title="Clear"
-                class="clear"
-                x-on:click="clearUniverse"
-            ></button>
+            <div class="tableControl">
+                <button
+                    type="button"
+                    title="Remove Row"
+                    class="removeRow"
+                    x-on:click="loseRow"
+                ></button>
+                <button
+                    type="button"
+                    title="Add Row"
+                    class="addRow"
+                    x-on:click="addRow"
+                ></button>
+                <button
+                    type="button"
+                    title="Remove Column"
+                    class="removeColumn"
+                    x-on:click="loseColumn"
+                ></button>
+                <button
+                    type="button"
+                    title="Add Column"
+                    class="addColumn"
+                    x-on:click="addColumn"
+                ></button>
+            </div>
+            <div class="generationControl">
+                <button
+                    type="button"
+                    x-on:click="toggleRunning"
+                    x-bind:class="running ? 'stop' : 'play'"
+                    x-bind:title="running ? 'Stop' : 'Play'"
+                ></button>
+                <button
+                    type="button"
+                    title="Step"
+                    class="step"
+                    x-on:click="conwayGen"
+                ></button>
+                <button
+                    type="button"
+                    title="Clear"
+                    class="clear"
+                    x-on:click="clearUniverse"
+                ></button>
+            </div>
             <table>
                 <tbody>
                     <template x-model="rows" x-for="ii in rows">
