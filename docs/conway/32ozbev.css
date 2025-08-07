@@ -28,6 +28,10 @@ button {
     background-repeat: no-repeat;
 }
 
+button:hover {
+    cursor: pointer;
+}
+
 .stop {
     background-image: url("stop.svg");
 }
