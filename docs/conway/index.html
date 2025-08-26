@@ -10,14 +10,23 @@
         ></script>
         <script src="conway.js"></script>
 
+        <!-- Simple CSS-->
+        <link
+            rel="stylesheet"
+            href="https://cdn.simplecss.org/simple.min.css"
+        />
+
         <link rel="stylesheet" type="text/css" href="32ozbev.css" />
         <link rel="icon" href="conway.png" />
     </head>
 
-    <body>
-        <h1>Conway's Life</h1>
-        <div x-data="grid">
-            <div class="tableControl">
+    <body x-data="grid">
+        <!-- <div x-data="grid"> -->
+        <header>
+            <h1>Conway's Life</h1>
+        </header>
+        <main>
+            <div class="notice tableControl">
                 <button
                     type="button"
                     title="Remove Row"
@@ -43,7 +52,7 @@
                     x-on:click="addColumn"
                 ></button>
             </div>
-            <div class="generationControl">
+            <div class="notice generationControl">
                 <button
                     type="button"
                     x-on:click="toggleRunning"
@@ -63,7 +72,7 @@
                     x-on:click="clearUniverse"
                 ></button>
             </div>
-            <table>
+            <table class="conwayGrid">
                 <tbody>
                     <template x-model="rows" x-for="ii in rows">
                         <tr>
@@ -78,6 +87,8 @@
                     </template>
                 </tbody>
             </table>
-        </div>
+        </main>
+        <!-- </div> -->
+        <!-- End of GRID -->
     </body>
 </html>
