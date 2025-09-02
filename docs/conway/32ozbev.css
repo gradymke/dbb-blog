@@ -19,6 +19,14 @@ td {
     background-color: white;
 }
 
+.material-symbols-outlined {
+    font-variation-settings:
+        "FILL" 1,
+        "wght" 100,
+        "GRAD" 0,
+        "opsz" 24;
+}
+
 button {
     height: 50px;
     width: 50px;
@@ -26,42 +34,11 @@ button {
     background-color: transparent;
     background-size: cover;
     background-repeat: no-repeat;
+    color: black;
 }
 
 button:hover {
     cursor: pointer;
-}
-
-.stop {
-    background-image: url("stop.svg");
-}
-
-.play {
-    background-image: url("play.svg");
-}
-
-.step {
-    background-image: url("step-forward.svg");
-}
-
-.clear {
-    background-image: url("eraser.svg");
-}
-
-.addColumn {
-    background-image: url("arrow-right.svg");
-}
-
-.removeColumn {
-    background-image: url("arrow-left.svg");
-}
-
-.addRow {
-    background-image: url("arrow-down.svg");
-}
-
-.removeRow {
-    background-image: url("arrow-up.svg");
 }
 
 .conwayGrid {

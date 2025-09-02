@@ -16,6 +16,16 @@
             href="https://cdn.simplecss.org/simple.min.css"
         />
 
+        <!-- Google Material Stuff -->
+        <link
+            href="https://fonts.googleapis.com/icon?family=Material+Icons"
+            rel="stylesheet"
+        />
+        <link
+            rel="stylesheet"
+            href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
+        />
+
         <link rel="stylesheet" type="text/css" href="32ozbev.css" />
         <link rel="icon" href="conway.png" />
     </head>
@@ -30,47 +40,60 @@
                 <button
                     type="button"
                     title="Remove Row"
-                    class="removeRow"
+                    class="material-symbols-outlined"
                     x-on:click="loseRow"
-                ></button>
+                >
+                    table_rows
+                </button>
                 <button
                     type="button"
                     title="Add Row"
-                    class="addRow"
+                    class="material-symbols-outlined"
                     x-on:click="addRow"
-                ></button>
+                >
+                    add_row_below
+                </button>
                 <button
                     type="button"
                     title="Remove Column"
-                    class="removeColumn"
+                    class="material-symbols-outlined"
                     x-on:click="loseColumn"
-                ></button>
+                >
+                    view_column
+                </button>
                 <button
                     type="button"
                     title="Add Column"
-                    class="addColumn"
+                    class="material-symbols-outlined"
                     x-on:click="addColumn"
-                ></button>
+                >
+                    add_column_right
+                </button>
             </div>
             <div class="notice generationControl">
                 <button
                     type="button"
+                    class="material-icons"
                     x-on:click="toggleRunning"
-                    x-bind:class="running ? 'stop' : 'play'"
+                    x-text="running ? 'pause' : 'play_arrow'"
                     x-bind:title="running ? 'Stop' : 'Play'"
                 ></button>
                 <button
                     type="button"
                     title="Step"
-                    class="step"
+                    class="material-icons"
                     x-on:click="conwayGen"
-                ></button>
+                >
+                    skip_next
+                </button>
                 <button
                     type="button"
                     title="Clear"
-                    class="clear"
+                    class="material-icons"
                     x-on:click="clearUniverse"
-                ></button>
+                >
+                    delete_sweep
+                </button>
             </div>
             <table class="conwayGrid">
                 <tbody>
