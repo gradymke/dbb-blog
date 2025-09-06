@@ -8,6 +8,7 @@ document.addEventListener("alpine:init", () => {
     running: false,
     interval: null,
     universe: [],
+    generation: 0,
     calculateTaurusCoordinates: function (i, j) {
       let coords = [i, j];
       // Test the edges and wrap around (taurus)
@@ -157,6 +158,7 @@ document.addEventListener("alpine:init", () => {
         }
       }
       this.universe = newUniverse;
+      this.generation++;
     },
     addRow: function () {
       if (this.rows < 100) {
@@ -201,6 +203,7 @@ document.addEventListener("alpine:init", () => {
       }
 
       this.universe = newUniverse;
+      this.generation = 0;
     },
     toggleRunning: function () {
       this.running = !this.running;
